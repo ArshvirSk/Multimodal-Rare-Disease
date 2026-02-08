@@ -1,0 +1,1243 @@
+GDid,gid,Did,sid,details,category
+1,1,612703,s_33132204_1,c.2344_2347delTTGC; p. Leu782Thrfs*2 in exon 13,heterozygous frameshift
+2,1,612703,s_33132204_1,c.3838C > T; p. Arg1280Cys in exon 17,heterozygous  missense
+3,2,259775,s_32833257_1,"c.456delC ,p.Gly153Alafs*34,in exon 1",homozygous frameshift
+4,2,259775,s_32833257_2,"c.905delT ,Phe302Serfs*35,in exon 4",homozygous frameshift
+5,2,259775,s_32833257_3,"c.1557C>G,p.Tyrs519*,in exon 10",homozygous nonsense
+6,4,154700,s_32534992_1,"c.3159C > G ,p.Cys1053Trp,in exon 26",heterozygous missense
+7,5,121050,s_32534992_1,"c.2638G > A ,p. Gly880Ser,in exon 20",heterozygous missense
+8,6,252605,s_35023661_1,"c.316G > T,in exon 5",homozygous missense
+9,7,614290,s_34993029_1,a supernumerary 18p isochromosome with two copies of the p arm of chromosome 18,Chromosome variation
+10,8,607872,s_34831818_1,a terminal deletion of 3.17 Mb at the short arm of chromosome 1,Chromosome variation
+11,9,605130,s_34828665_1,"c.4696G>A,p.Gly1566Arg",heterozygous missense
+12,14,147920,s_34675602_1,c.511-2A> T,
+13,15,248340,s_34636477_1,c. 128 _ 129delCA; p. (Thr43AsnfsTer9),homozygous frameshift deletion
+14,16,300373,s_34622833_1,"c.1003C>T,p.Gln335*",
+15,17,251450,s_34602954_1,c.277_278delCT; p.Leu93ValfsTer89,homozygous frameshift
+16,17,251450,s_34602954_2,c.898C>T; p.Arg300Cys,homozygous missense
+17,19,605039,s_34527642_1,c.1210C>T/p.R404*,heterozygous nonsense
+18,20,216550,s_34484844_1,"c.8698G>T,p.E2900X",homozygous nonsense
+19,21,235730,s_34466018_1,c.1137_1146del TAGTATGTCT in exon 8,deletion
+20,22,216400,s_34461059_1,"c.317_320dupAGTG,p.Trp107Ter",homozygous duplication
+21,22,216400,s_34461059_2,c.481 + 1G > A,homozygous splicing
+22,23,239850,s_34453476_1,c.3460C>T (p.Arg1154Trp),NA
+23,23,239850,s_34453476_2,c.3460C>T (p.Arg1154Trp),NA
+24,23,239850,s_34453476_3,c.3460C>T (p.Arg1154Trp),NA
+25,24,614813,s_34419044_1,c.981+1G>A in intron 9,homozygous splicing
+26,25,615009,s_34341476_1,c.607 C>T,NA
+27,2,259775,s_34259997_1,c.1487C > T in exon 9,homozygous missense
+28,26,609625,s_34252586_1,"a 860 kb deletion containing seven genes including four coding genes: DOCK1,FAM196A (INSYN2),NPS and FOXI2",Chromosome variation
+29,26,609625,s_34252586_2,"a 860 kb deletion containing seven genes including four coding genes: DOCK1,FAM196A (INSYN2),NPS and FOXI2",Chromosome variation
+30,27,300749,s_34221169_1,c.278 + 5G > A,NA
+31,28,618672,s_34208845_1,"c.732dup,p.Ser245GlnfsTer8",frameshift
+32,30,,s_34112922_1,"c.445C>T,p.(Arg149Trp)",NA
+33,34,615398,s_34084664_1,"g. 45424323C > t,p. Arg448Trp",homozygous missense
+34,35,183086,s_34068417_1,"c.4182C>A (p.Phe1394Leu,F1394L)",heterozygous missense
+35,35,183086,s_34068417_2,"c.4991G>A (p.Arg1664Gln,R1664Q)",heterozygous missense
+36,35,183086,s_34068417_3,"c.5006G>A (p.Arg1669Gln,R1669Q)",heterozygous missense
+37,36,154500,s_34058530_1,c.163C > T (p.Q55X) in exon 2,heterozygous nonsense
+38,4,614185,s_34040419_1,c.5272G>T(p.D1758Y) in exon 42,heterozygous missense
+39,4,614185,s_34040419_2,c.5183C>T (p.A1728V) in exon 42,heterozygous missense
+40,4,614185,s_34040419_3,c.5183C>T (p.A1728V) in exon 42,heterozygous missense
+41,37,617062,s_34038195_1,"c.479A>G,p.H160R",heterozygous missense
+42,37,617062,s_34038195_2,"c.238C>T,p.R80C",heterozygous missense
+43,38,616420,s_34037307_1,c.257T>G (p.Val86Gly),heterozygous missense
+44,38,616420,s_34037307_2,c.400G>A (p.Val134Met),homozygous missense
+45,39,,s_34013494_1,c.3220 T>C [p.(Cys1074Arg)],heterozygous missense
+46,39,,s_34013494_2,c.3224C>T; [p.(Thr1077Ile)],heterozygous missense
+47,40,148050,s_34012832_1,"c.6792dupC,p. P2271Pfs*8",heterozygous frameshift
+48,40,148050,s_34012832_2,"c.7407dupC,p. P2530Rfs*61",heterozygous frameshift
+49,40,148050,s_34012832_3,"c. G3046A,p. D1016N",missense
+50,41,618939,s_34012383_1,c.3007C>T; p.Arg1003Cys,heterozygous variant
+51,14,147920,s_34012382_1,c.4981del; p.(Glu1661Serfs*61),heterozygous frameshift
+52,42,300867,s_34012382_2,c.3301G>A; p.(Glu1101Lys),hemizygote missense
+53,44,609425,s_33938623_1,deletion,Chromosome variation
+54,45,616789,s_33930262_1,"c.5941C>T,p.(Gln1981*)",heterozygous nonsense
+55,46,136140,s_33909990_1,See article for more details,NA
+56,47,301029,s_33810051_1,"c.3793C>T,p.Arg1265Cys",X-linked recessive single nucleotide
+57,47,301029,s_33810051_2,"c.3793C>T,p.Arg1265Cys",X-linked recessive single nucleotide
+58,48,257920,s_33765348_1,c.310C>T; p.Gln104Ter,homozygous nonsense
+59,49,135900,s_33768696_1,c.6274C>T; p.Gln2092* in Exon 20,Nonsense
+60,49,135900,s_33768696_2,c.2248C>T; p.Arg750* in Exon 6,Nonsense
+61,49,135900,s_33768696_3,c.5776C>T; p.Arg1926* in Exon 20,Nonsense
+62,49,135900,s_33768696_5,c.6382C>T; p.Arg2128* in Exon 20,Nonsense
+63,49,135900,s_33768696_6,c.6726_6730del; p.Leu2243Serfs*8 in Exon 20,Frameshift small deletion
+64,49,135900,s_33768696_7,c.6726_6730del; p.Leu2243Serfs*8 in Exon 20,Frameshift small deletion
+65,49,135900,s_33768696_8,c.6091dup; p.Ile2031Asnfs*58 in Exon 20,Frameshift small insertion
+66,49,135900,s_33768696_9,c.2692C>T; p.Arg898* in Exon 9,Nonsense
+67,49,135900,s_33768696_10,c.2020_2023del; p.Arg674Hisfs*22 in Exon 5,Frameshift small deletion
+68,49,135900,s_33768696_11,Whole gene deletion,NA
+69,49,135900,s_33768696_12,c.614del; p.Leu2049Trpfs*50 in Exon 20,Frameshift small deletion
+70,49,135900,s_33768696_13,c.2038-1G>A Intron 5,Splice site variant
+71,49,135900,s_33768696_14,c.4536G>A; p.Trp1512* in Exon 18,Nonsense
+72,49,135900,s_33768696_15,c.2131del; p.Asp711Ilefs*34 in Exon 6,Frameshift small deletion
+73,49,135900,s_33768696_16,c.3809_3810insATGCTCAT; p.Met1270Ilefs*19 in Exon 15,Frameshift small insertion
+74,49,135900,s_33768696_17,c.4466del; p.Pro1489Leufs*5 in Exon 18,Frameshift small deletion
+75,49,135900,s_33768696_18,c.5734del; p.Ser1912Valfs*62 in Exon 20,Frameshift small deletion
+76,50,614608,s_33768696_4,c.1096C>T;p.Arg366Cys in Exon 8,Missense
+77,51,193500,s_33747040_1,c.959-5T>G in Intron 6,heterozygous variant
+78,52,,s_33743206_1,c.551_559del; (p.Asp184_Gln186del),NA
+79,52,,s_33743206_2,c.562C>T; (p.Arg188Trp),NA
+80,52,,s_33743206_3,c.563G>A; (p.Arg188Gln),NA
+81,52,,s_33743206_4,c.637G>A; (p.Glu213Lys),NA
+82,52,,s_33743206_5,c.637G>A; (p.Glu213Lys),NA
+83,52,,s_33743206_6,c.637G>A; (p.Glu213Lys),NA
+84,52,,s_33743206_7,c.637G>A; (p.Glu213Lys),NA
+85,52,,s_33743206_8,c.1285T>G; (p.Phe429Val),NA
+86,53,103580,s_33730787_1,c.389A>G in exon 5,NA
+87,54,123500,s_33725872_1,c.1026C>G (C342W) in exon 10,heterozygous missense
+88,55,218330,s_33717254_1,c.366_376delAGGCCAAGGTG (p.Gly123Glufs*3),heterozygous frameshift
+89,55,218330,s_33717254_1,c.3879A>G (p.Ter1293Trpext),heterozygous missense
+90,2,259775,s_33676444_1,c.1680C>A (p.Cys560Ter) in exon 10,homozygous nonsense
+91,58,614457,s_33652762_1,"c.435dup,p.(Ile146Tyrsfs*29) in exon 4",homozygous frameshift
+92,58,614457,s_33652762_2,"c.208C>T,p.(Arg70*) in exon 2;c.487T>C,p.(Cys163Arg) in exon 4",heterozygous missense
+93,59,182212,s_33628537_1,c.3502G>A (p.Arg117His) in codon 1,NA
+94,60,618205,s_33569240_1,"g. 7803326A > G,NM _ 001005273.2: c. 2657A > G,p (His886Arg)",NA
+95,20,216550,s_33542958_1,"218Kb homozygous deletion in the long arm of chromosome 8 (region q22.2),the 20-25 exons of the VPS13B gene",Chromosome variation
+96,61,617755,s_33522091_1,c.209dupG (p.Ser71Glnfs*3),Frameshift
+97,61,617755,s_33522091_2,c.209dupG (p.Ser71Glnfs*3),Frameshift
+98,61,617755,s_33522091_3,c.255delC (p.Ser86Alafs*151),Frameshift
+99,61,617755,s_33522091_4,c.255delC (p.Ser86Alafs*151),Frameshift
+100,61,617755,s_33522091_5,c.255dupC (p.Ser86Glnfs*43),Frameshift
+101,61,617755,s_33522091_6,c.1282G>T (p.Glu428*),Nonsense
+102,61,617755,s_33522091_7,c.1607_1620del (p.Asp536Glyfs*5),Frameshift
+103,61,617755,s_33522091_8,c.2724_2727del (p.Thr909Serfs*4),Frameshift
+104,61,617755,s_33522091_9,c.2921+1G>C,Splicing
+105,61,617755,s_33522091_10,c.2921+1G>C,Splicing
+106,61,617755,s_33522091_11,c.3085delA (p.Thr1029Glnfs*27),Frameshift
+107,61,617755,s_33522091_12,c.3210_3221del (p.Asn1071Glu1074del),In-frame deletion
+108,61,617755,s_33522091_13,c.3210_3221del (p.Asn1071Glu1074del),In-frame deletion
+109,61,617755,s_33522091_14,c.3233_3237del (p.Arg1078Metfs*13),Frameshift
+110,61,617755,s_33522091_15,c.3610C>T (p.Arg1204*),Nonsense
+111,61,617755,s_33522091_16,c.3610C>T (p.Arg1204*),Nonsense
+112,61,617755,s_33522091_17,c.4555C>T (p.Arg1519*),Nonsense
+113,61,617755,s_33522091_18,c.5936-1G>A (p.Thr1980Glufs25),Splicing
+114,61,617755,s_33522091_19,c.6078dupT (p.Ala2027Cysfs*2),Frameshift
+115,61,617755,s_33522091_20,c.6259+3_6259+4delinsG,Splicing
+116,61,617755,s_33522091_21,c.7521_7524dupATCT (p.Leu2509Ilefs*21),Frameshift
+117,61,617755,s_33522091_22,c.7875+3559_7876-2789del and t(1;17)(q24.3;q24.2),Gene disruption/deletion
+118,61,617755,s_33522091_23,c.8081G>C (p.Arg2694Thr),Missense
+119,61,617755,s_33522091_24,c.(7875+1_7876-1)_(8209+1_8210-1)del,"Exon deletion,Frameshift"
+120,61,617755,s_33522091_25,c.8210+6_8210+8del,In-frame deletion
+121,61,617755,s_33522091_26,c.8278G>T (p.Glu2760*),Nonsense
+122,21,235730,s_33510600_1,c.808-2A>G in intron 6,splice site
+123,21,235730,s_33510600_2,c.246_247delGGinsC(p.Glu82AspfsTer7) in exon 3,frameshift
+124,21,235730,s_33510600_3,c.2083C>T(p.Arg695*) in exon 8,nonsense
+125,21,235730,s_33510600_4,c.980_980delG(p.Gly351fs*) in exon 8,frameshift
+126,62,607872,s_33510599_1,a terminal copy number loss of approximately 2.4 Mb in 1p36.33 to p36.32,Chromosome variation
+127,63,,s_33494996_1,a 17.980-Mb triplication of 11q13.4-q14.3 encompassing 92 OMIM genes including GRM5 and MAP6,Chromosome variation
+128,64,,s_33491997_1,c.1855C>T (p.Gln619Ter),homozygous nonsense
+129,65,600118,s_33466118_1,c.75-2A>C in intron 2,homozygous splice site
+130,66,,s_33442026_1,c.207_208dupTG; p.(Ala70Valfs*7),Homozygous
+131,66,,s_33442026_2,c.207_208dupTG; p.(Ala70Valfs*7),Homozygous
+132,66,,s_33442026_3,c.1077dupT; p.(Leu360Serfs*21),Homozygous
+133,67,248370,s_33422685_1,c.1580G > A; p.(Arg527His),homozygous mutation
+134,67,248370,s_33422685_2,c.1580G > A; p.(Arg527His),homozygous mutation
+135,67,248370,s_33422685_3,c.1580G > A; p.(Arg527His),homozygous mutation
+136,67,248370,s_33422685_4,c.1580G > A; p.(Arg527His),homozygous mutation
+137,67,248370,s_33422685_5,c.1580G > A; p.(Arg527His),homozygous mutation
+138,68,615485,s_33392332_1,c.1795G>T in exon 11,heterozygous nonsense
+139,69,617557,s_33369188_1,c.1124G>A(p.Arg375Gln) in exon 5,heterozygous missense
+140,70,615071,s_33356342_1,c.C925T (p.Arg309X) in exon 7,homozygous pathogenic
+141,70,615071,s_33356342_2,c.1669-1_1671del in intron 12,homozygous pathogenic
+142,36,154500,s_33341718_1,c.1622G > A (p.W541*) in exon 11,heterozygous nonsense
+143,71,311900,s_33340101_1,"c.413_416del,p.(Ser138Trpfs*60)",frameshift
+144,71,311900,s_33340101_2,"c.1888+4A>C,p.Ser591Leufs*139",hemizygous splice site
+145,72,243310,s_33334799_1,c.826G>A (p.Glu276Lys),heterozygous missense
+146,9,605130,s_33325147_1,"c.3566G>T,p.Cys1189Phe",heterozygous missense
+147,76,268310,s_33237614_1,c.899G>T; c.990delC(p.Cys300Phe; p.Thr331Profs*114),Compound heterozygous
+148,76,268310,s_33237614_2,c.904C>T; c.1970G>A(p.Arg302Cys; p.Arg657His),Compound heterozygous
+149,75,180700,s_33237614_3,c.479C>G(p.Ser160Cys),heterozygous
+150,75,180700,s_33237614_4,c.257A>G(p.Tyr86Cys),heterozygous
+151,73,616331,s_33237614_5,c.1612_1616dup(p.Ser539Argfs*112),heterozygous
+152,73,616331,s_33237614_6,c.1519del(p.Trp507Glyfs*142),heterozygous
+153,73,616331,s_33237614_7,c.1556del(p.Gly519Aspfs*130),heterozygous
+154,73,616331,s_33237614_8,c.1608_1623del(p.Ser537Valfs*107),heterozygous
+155,74,618529,s_33237614_9,c.817C>T; p.(Gln723*); seq[GRCh37/hg19]del(17)(p13.3) chr17:g.pter_1026797del,Compound heterozygous
+156,74,618529,s_33237614_10,c.625C>T(p.Arg209*),homozygous
+157,79,609757,s_33187326_1,"7q11.23(72,726,578-74,119,570)x3 duplicate 1.4 Mb",Chromosome variation
+158,79,609757,s_33187326_2,"7q11.23(72,726,578-74,139,390)x3 duplicate 1.4 Mb",Chromosome variation
+159,79,609757,s_33187326_3,"7q11.23(72,726,578-74,139,390)x3 duplicate 1.4 Mb",Chromosome variation
+160,79,609757,s_33187326_4,"7q11.23(72,726,578-74,339,044)x3 duplicate 1.6 Mb",Chromosome variation
+161,79,609757,s_33187326_5,"7q11.23(72,726,578-74,139,390)x3 duplicate 1.4 Mb",Chromosome variation
+162,79,609757,s_33187326_6,"7q11.22q11.23(72,044,007-74,139,390)x3 duplicate 2.1 Mb",Chromosome variation
+163,79,609757,s_33187326_7,"7q11.23(72,283,565-74,134,911)x3 duplicate 1.9 Mb",Chromosome variation
+164,79,609757,s_33187326_8,"7q11.23(72,726,578-74,339,044)x3 duplicate 1.6 Mb",Chromosome variation
+165,79,609757,s_33187326_9,"7q11.23(72,726,578-74,119,570)x3 duplicate 1.4 Mb",Chromosome variation
+166,79,609757,s_33187326_10,"7q11.23(72,726,578-74,139,390)x3 duplicate 1.4 Mb",Chromosome variation
+167,80,613406,s_33142042_1,"a 3.8-megabase deletion spanning 15q24.1q24.3. The deleted region encompasses 10 morbid genes: STRA6,CYP11A1,SEMA7A,EDC3,MPI,SIN3A,ETFA,SCAPER,PSTPIP1,and LINGO1.",Chromosome variation
+168,81,190350,s_33073934_1,c.1338C>A (p.Tyr446*) in exon 4,heterozygous nonsense
+169,81,190350,s_33073934_2,c.2657C>A (p.Ser886*) in exon 5,heterozygous nonsense
+170,81,190351,s_33073934_3,c.2726G>C (p.Cys909Ser) in exon 6,heterozygous missense
+171,81,190350,s_33073934_4,c.2762G>A (p.Arg921Gln) in exon 6,heterozygous missense
+172,82,150230,s_33073934_5,"seq [GRCh37] del(8)(q23.3-q24.11),this region contains several important OMIM genes:TRPS1,RAD21,EXT1,etc",Chromosome variation
+173,84,,s_33002343_1,"c.1004T>A,p.Leu335*",homozygous nonsense
+174,84,,s_33002343_2,"c.1004T>A,p.Leu335*",homozygous nonsense
+175,84,,s_33002343_3,"c.1004T>A,p.Leu335*",homozygous nonsense
+176,85,145420,s_32954677_1,"c.1195C>G,p.(Arg399Gly)",missense
+177,86,610536,s_32943010_1,c.702G>T,de novo synonymous
+178,87,613795,s_32935439_1,c.532+ 2 T>A,homozygous splice site
+179,88,613735,s_32926563_1,c.220C>T/p.Arg74Ter,heterozygous nonsense
+180,89,309500,s_32903913_1,c.640C>T; p.(Arg214Trp),hemizygous missense
+181,25,615009,s_32903913_1,c.607C>T; p.(Arg203Trp),heterozygous variant
+182,90,618089,s_32902151_1,c.2401_2405dup (p. Gly803Leufs*6),heterozygous small insertion
+183,90,618089,s_32902151_2,c.2401_2405dup (p. Gly803Leufs*6),heterozygous small insertion
+184,90,618089,s_32902151_3,c.2401_2405dup (p. Gly803Leufs*6),heterozygous small insertion
+185,91,300486,s_32872024_1,"a deletion in the OPHN1 gene,exon 21",heterozygous deletion
+186,92,180849,s_32839936_1,"c.4897_4899delTTC,p.Phe1633del",de novo frame deletion
+187,93,616586,s_32798076_1,c.-28-2A>G,heterozygous
+188,93,616586,s_32798076_1,c.383G>A,heterozygous
+189,94,,s_32765932_1,"a heterozygous deletion of size approximately 5.5 Mb at the short arm of chromosome 3,that encompassed 54 genes(FOXP1)",Chromosome variation
+190,95,193500,s_32740552_1,c.1022_1023delTC,de novo heterozygous mutation
+191,95,193500,s_32740552_2,c.1022_1023delTC,de novo heterozygous mutation
+192,96,,s_32737394_1,c.2814_2816dup,homozygous variants
+193,96,,s_32737394_2,c.2814_2816dup,homozygous variants
+194,96,,s_32737394_3,c.2814_2816dup,homozygous variants
+195,96,,s_32737394_4,c.2814_2816dup,homozygous variants
+196,96,,s_32737394_5,c.2814_2816dup,homozygous variants
+197,96,,s_32737394_6,c.2405G>T,homozygous variants
+198,96,,s_32737394_7,c.2884C>G,compound heterozygous variants
+199,97,,s_32733715_1,the 0.797Mb duplication found in the 20p12.2 containing the JAG1 gene,Chromosome variation
+200,98,,s_32707268_1,c.12_13insTTGTGACTAACA,homozygous variants
+201,98,,s_32707268_2,c.12_13insTTGTGACTAACA,homozygous variants
+202,99,615074,s_32688057_1,c.335 + 4026_1420-155del in exons 3 to 8,premature termination codon (PTC) variants
+203,99,615074,s_32688057_2,c.673_674del in exon 5,premature termination codon (PTC) variants
+204,99,615074,s_32688057_3,c.115dup in exon 2,premature termination codon (PTC) variants
+205,99,615074,s_32688057_4,c.1261dup in exon 8,premature termination codon (PTC) variants
+206,99,615074,s_32688057_5,c.1411C > T in exon 8,premature termination codon (PTC) variants
+207,99,615074,s_32688057_6,c.1537C > T in exon 10,premature termination codon (PTC) variants
+208,99,615074,s_32688057_7,c.597+1G > A in intron 4,premature termination codon (PTC) variants
+209,99,615074,s_32688057_8,c.1198_1199del in exon 7,premature termination codon (PTC) variants
+210,99,615074,s_32688057_9,c.1432C > T in exon 9,premature termination codon (PTC) variants
+211,99,615074,s_32688057_10,c.535C > T in exon 4,premature termination codon (PTC) variants
+212,99,615074,s_32688057_11,c.973C > T in exon 7,premature termination codon (PTC) variants
+213,99,615074,s_32688057_12,c.1429C > T in exon 9,premature termination codon (PTC) variants
+214,99,615074,s_32688057_13,c.271dupA in exon 2,premature termination codon (PTC) variants
+215,99,615074,s_32688057_14,c.1417C > T in exon 8,premature termination codon (PTC) variants
+216,99,615074,s_32688057_15,c.1217-1G > C in intron 7,premature termination codon (PTC) variants
+217,99,615074,s_32688057_16,c.-1-1539_1216 + 432del in exon 2 to 7,premature termination codon (PTC) variants
+218,99,615074,s_32688057_17,c.1438C > T in exon 9,premature termination codon (PTC) variants
+219,99,615074,s_32688057_18,c.841A > T in exon 6,premature termination codon (PTC) variants
+220,99,615074,s_32688057_19,c.1246G > T in exon 8,premature termination codon (PTC) variants
+221,100,,s_32659295_1,c. 2421C > G p (Asn807Lys) in exon 4,missense mutation
+222,100,,s_32659295_2,c.1944_1965del22 p.(Gly649Alafs*67) in exon 4,frameshift variant
+223,49,135900,s_32618029_1,c.1543_1998del; 87 amino acids deletion,NA
+224,46,136140,s_32615693_1,c.7330C > T (p.Arg2444*) in exon 34,heterozygous mutation
+225,101,,s_32537934_1,c.1808G>T (p.Arg603Leu),homozygous mutation
+226,101,,s_32537934_2,c.1808G>T (p.Arg603Leu),homozygous mutation
+227,102,,s_32528716_1,"de novo 2.76-Mb deletion of 2q36.3q37.1,including TRIP12 and NPPC.",Chromosome variation
+228,103,617333,s_32457794_1,c.1054G > C; p.Val352Leu,heterozygous missense
+229,104,,s_32380822_1,identified an 8.1-Mb deletion in 6q25.1-q25.3 which covered 31 genes,Chromosome variation
+230,105,602782,s_32341814_1,c.1309G>A p.(Gly437Arg),homozygous mutation
+231,106,617140,s_32291808_1,c.5230delC (p.Arg1744ValfsTer29),heterozygous frameshift
+232,36,154500,s_32257192_1,c.911C>T (p.Ser304Leu),heterozygous mutation
+233,70,615071,s_32244554_1,"c.1097_1098del,p.(Arg366Thrfs*2)",homozygous frameshift substitution
+234,107,300860,s_32222108_1,"c.TAT245TGT,p.Tyr82Cys",hemizygous missense
+235,49,135900,s_32161024_1,c.2201dupG (p.Ser736Ilefs*27),heterozygous frameshift
+236,108,273750,s_32141654_1,c.4898 C > T (p. Thr1633Met),homozygous missense
+237,108,273750,s_32141654_2,c.3722_3749 dup 28(p. Val1252Glyfs*23),homozygous duplication
+238,108,273750,s_32141654_3,c.3722_3749 dup 28(p. Val1252Glyfs*23),homozygous duplication
+239,9,605130,s_32128942_1,"c.2632_2633del,p.Arg878GLYfster*7",heterozygous single base-pair deletion
+240,53,103580,s_32110670_1,c.399delT (p.Ser133Argfs*2) in exon 5,heterozygous frameshift
+241,109,,s_32097528_1,"c.46C>T,p.(Gln16*)",NA
+242,109,,s_32097528_2,c.117-2A>T,NA
+243,109,,s_32097528_3,"c.630C>G,p.(Tyr210*)",NA
+244,109,,s_32097528_4,"c.705_708delTGAG,p.(Glu236Lysfs*52)",NA
+245,109,,s_32097528_5,"c.1089G>A,p.(Trp363*)",NA
+246,109,,s_32097528_6,"c.1129del,p.(Ser377Profs*11)",NA
+247,109,,s_32097528_7,"c.1315_1318del,p.(Thr440Argfs*3)",NA
+248,109,,s_32097528_8,"c.1525_1526del,p.(Lys509Glufs*6)",NA
+249,109,,s_32097528_9,"c.1531C>T,p.(Gln511*)",NA
+250,109,,s_32097528_10,"c.1572dup,p.(Asp525Glyfs*5)",NA
+251,109,,s_32097528_11,"c.1720T>C,p.(Cys574Arg)",NA
+252,109,,s_32097528_12,"c.1756C>T,p.(Gln586*)",NA
+253,109,,s_32097528_13,"c.1756C>T,p.(Gln586*)",NA
+254,109,,s_32097528_14,"c.1756C>T,p.(Gln586*)",NA
+255,109,,s_32097528_15,"c.1756C>T,p.(Gln586*)",NA
+256,109,,s_32097528_16,"c.1246G>A,p.(Glu416Lys)",NA
+257,110,,s_32050918_1,"c.1112G>A,p.Cys371Tyr",hemizygous missense
+258,110,,s_32050918_2,"c.1112G>A,p.Cys371Tyr",hemizygous missense
+259,111,,s_32041641_1,"c.3385C>T,p.(Arg1129*)",truncating mutation
+260,111,,s_32041641_2,"c.3640A>T,p.(Lys1214*)",truncating mutation
+261,111,,s_32041641_3,"c.3427_3428insTA,p.(Ser1143 Leufs*5)",truncating mutation
+262,111,,s_32041641_4,"c.1075G>A,p.Gly359Ser (p.Pro509 Thrfs*11)",truncating mutation
+263,111,,s_32041641_5,"c.4254_4257 delTGAG,p.(Glu1419 Trpfs*12)",missense
+264,112,615278,s_32021610_1,c.173C>T (p.Thr58Ile),heterozygous variant
+265,113,615279,s_31972311_1,c.383G>T; p.Gly128Val in exon 3,heterozygous missense
+266,113,615279,s_31972311_2,c.389A>G; p.Tyr130Cys in exon 3,heterozygous missense
+267,113,615279,s_31972311_3,c.170A>T; p.Lys57Met in exon 2,heterozygous missense
+268,85,145420,s_31953237_1,"c.1249A>C,p.(Thr417Pro)",missense
+269,114,606056,s_31925597_1,c.1694G>A: R565Q,heterozygous mutation
+270,114,606056,s_31925597_1,c.1619G>A:R540H,heterozygous mutation
+271,115,617450,s_31916397_1,"c.1254_1255del,p.(V419Qfs*14)",heterozygous novel variant
+272,57,616734,s_31903734_1,c.518G>A (p.Arg173Gln),heterozygous missense
+273,116,118450,s_31835735_1,c.802delC,heterozygous single-base deletion
+274,117,,s_31834374_1,"c.3730_3731insAAGAC,p.(Thr1244Lysfs*78)",heterozygous C-terminal truncating variant
+275,117,,s_31834374_2,"c.3745G>T,p.(Glu1249*)",heterozygous C-terminal truncating variant
+276,117,,s_31834374_3,"c.3778G>T ,p.(Glu1260*)",heterozygous C-terminal truncating variant
+277,117,,s_31834374_4,"c.3817C>T,p.(Gln1273*)",heterozygous C-terminal truncating variant
+278,117,,s_31834374_5,"c.3839delG,p.(Cys1280Serfs*40)",heterozygous C-terminal truncating variant
+279,117,,s_31834374_6,"c.3849_3850delinsA,p.(His1284Thrfs*36)",heterozygous C-terminal truncating variant
+280,117,,s_31834374_7,"c.3870_3879dup,p.(Ala1294*)",heterozygous C-terminal truncating variant
+281,117,,s_31834374_8,"c.3883C>T,p.(Arg1295*)",heterozygous C-terminal truncating variant
+282,117,,s_31834374_9,"c.3893_3894dupTG,p.(Pro1299Cysfs*22)",heterozygous C-terminal truncating variant
+283,117,,s_31834374_10,"c.3903G>A,p.(Trp1301*)",heterozygous C-terminal truncating variant
+284,117,,s_31834374_11,"c.3926_3931delCCAACAins17,p.(Ser1309*)",heterozygous C-terminal truncating variant
+285,118,,s_31833172_1,"c.350G>A,p.Arg117Gln",heterozygous nonsynonymous missense
+286,118,,s_31833172_2,c. 780 + 1 G > A,heterozygous canonical splice site
+287,86,610536,s_31806011_1,c.1030_1031delTG (p.Trp344fs*2),heterozygous out-of-frame deletion
+288,119,614104,s_31803247_1,"c. 930C > A,p. Tyr310 *",heterozygous nonsense
+289,120,616489,s_31803239_1,c.157+5G > A,heterozygous splicing variant
+290,121,612289,s_31775791_1,"c.650G>A,p.(Arg217His)",heterozygous mutation
+291,41,618939,s_31649276_1,"c.3007C>T,p.(Arg1003Cys)",missense variation
+292,41,618939,s_31649276_2,"c.2046T>A,p.(Ser682Arg)",missense variation
+293,41,618939,s_31649276_3,"c.3007C>T,p.(Arg1003Cys)",NA
+294,41,618939,s_31649276_4,"c.3007C>A,p.(Arg1003Ser)",NA
+295,54,123500,s_31640617_1,"c.1012G>C,p.G338R",heterozygous missense mutation
+296,122,616006,s_31633297_1,"encodes the F-box domain and several leucine-rich repeats of FBXL7,is eliminated",homozygous single-exon deletion
+297,107,300860,s_31566921_1,c.331-2A>G,hemizygous mutation
+298,123,,s_31429857_1,inv dup(12) p13.31 -> p11.1,Chromosome variation
+299,86,610536,s_31413053_1,"c.831_832del,(p.Lys277Asnsf*7)",heterozygous mutation
+300,124,194190,s_31382906_1,"c.4029_4030insAA,p.Glu1344Lysfs*49",truncating variant
+301,54,123500,s_31318164_1,"c.799T>C,p.(Ser267Pro) in exon 7",heterozygous mutation
+302,9,605130,s_31250358_1,"c.3929_3930delinsA,p.Pro1310Glnfs*46 in exon 7",heterozygous nonsense
+303,125,268300,s_31192177_1,c.1131+1G>A in intron 6,homozygous alterations
+304,125,268300,s_31192177_2,c.417del in exon 3,homozygous alterations
+305,126,615829,s_31182893_1,c.1529delG (p.Gly510Alafs*12),heterozygous de novo frameshift variant
+306,103,617333,s_31176769_1,c.655G > T in exon 3,heterozygous variant
+307,127,618499,s_31173466_1,"c.212A>G,p.(Q71R)",de novo heterozygous mutation
+308,128,147791,s_31160359_1,"c.1044_1049delCAAGGAinsTT,p.Lys349SerfsX2",de novo frameshift nonsense
+309,116,118450,s_31157196_1,c.2026delT (p.Cys676AlafsTer67) in exon 16,nonsense
+310,129,611553,s_31145547_1,c.788 T>G (p.V263G),heterozygous mutation
+311,130,613717,s_31107123_1,c.91C > T( p. Gln31X) in exon 3,heterozygous nonsense
+312,36,154500,s_31107123_2,c.4131_4135delAAAAG(p.K1380Efs*12) in exon 24,deletion mutation
+313,36,154500,s_31107123_3,c.2394_2395delAG(p.D799Qfs*2) in exon 15,heterozygous deletion
+314,36,154500,s_31107123_4,c.381_382 delAG(p.A127fs46*) in exon 5,heterozygous deletion
+315,36,154500,s_31107123_5,exons deletion in exon 9-13,heterozygous deletion
+316,131,213980,s_31102500_1,c.616C>T; p.(Arg206*),homozygous stop-gain mutation
+317,131,213980,s_31102500_2,c.616C>T; p.(Arg206*),homozygous stop-gain mutation
+318,132,616638,s_31053780_1,c.7235A>T:p.(Asp2412Val)/p.(D2412V) in exon 53,heterozygous missense
+319,103,617333,s_31020800_1,c.556C>T (p.Q186*) in exon 2,heterozygous truncating mutation
+320,103,617333,s_31020800_2,c.556C>T (p.Q186*) in exon 2,heterozygous truncating mutation
+321,103,617333,s_31020800_3,c.556C>T (p.Q186*) in exon 2,heterozygous truncating mutation
+322,133,,s_30997052_1,"c.1118T>A,p.Val373Asp,c.2015C>T,p.Thr672Met",compound heterozygous
+323,134,301026,s_30982611_1,c.1516C>T (p.Gln506*),truncating variants
+324,134,301026,s_30982611_2,c.1516C>T (p.Gln506*),truncating variants
+325,134,301026,s_30982611_3,c.1516C>T (p.Gln506*),truncating variants
+326,134,301026,s_30982611_4,c.701dup (p.Val235Glyfs*53),frameshift
+327,134,301026,s_30982611_5,c.701dup (p.Val235Glyfs*53),frameshift
+328,134,301026,s_30982611_6,c.701dup (p.Val235Glyfs*53),frameshift
+329,134,301026,s_30982611_7,c.1486G>T (p.Glu496*),truncating variants
+330,134,301026,s_30982611_8,"c.316delG,p.(Asp106Metfs*15)",frameshift
+331,134,301026,s_30982611_9,c.1518_1521dupGTGC (p.Pro508Valfs*6),truncating variants
+332,134,301026,s_30982611_10,c.742delC (p.Leu248Cysfs*2),frameshift
+333,135,614609,s_30973214_1,"c.4297G >A,p.(Glu1433Lys) in exon 31",heterozygous variant
+334,136,,s_30929739_1,"c.133C>T,p.(Arg45*)",
+335,136,,s_30929739_2,"c.277G>T,p.(Glu93*)",
+336,136,,s_30929739_3,"c.349T>C,p.(Trp117Arg)",
+337,136,,s_30929739_4,"c.1007A>G,p.(Asp336Gly)",
+338,136,,s_30929739_5,"c.2479C>T,p.(Gln827*)",
+339,136,,s_30929739_6,"c.2827C>T,p.(Arg943Trp)",
+340,136,,s_30929739_7,"c.2828G>A,p.(Arg943Gln)",
+341,136,,s_30929739_8,"c.3083G>A,p.(Arg1028Gln)",
+342,136,,s_30929739_9,"c.3095A>T,p.(Asp1032Val)",
+343,136,,s_30929739_10,"c.4526T>C,p.(Leu1509Pro)",
+344,136,,s_30929739_11,"c.4549C>T,p.(Arg1517*)",
+345,136,,s_30929739_12,"c.4631A>G,p.(Tyr1544Cys)",
+346,136,,s_30929739_13,"c.5191G>A,p.(Glu1731Lys)",
+347,136,,s_30929739_14,"c.5201T>G,p.(Leu1734Arg)",
+348,137,,,"c.1816C>A,p.(L606I)",missense variant
+349,138,152950,s_30733662_1,de novo 1.6-Mb microdeletion,Chromosome variation
+350,139,152950,s_30733662_1,"c.1402T>G,(p.Leu468Val) in exon 12",heterozygous missense mutation
+351,54,123500,s_30719288_1,"c.1164C>T,(p.I388I) in exon 11",heterozygous silent mutation
+352,140,,s_30670789_1,"del 14q11.2 (21,827,942-21,861,211);33.269 kb",Chromosome variation
+353,141,,s_30615951_1,A 575Kb microdeletion at 1p36.11 encompassing AHDC1 gene,Chromosome variation
+354,141,,s_30615951_2,a 491Kb microduplication at 1p36.11p35.3 covering the entire AHDC1 gene,Chromosome variation
+355,24,614813,s_30569574_1,"c. 649C>T,p. Arg217Trp",homozygous missense
+356,69,617557,s_30549423_1,"c.860_864delTTAAAA,p.Ile287Arg fs*3",heterozygous deletion
+357,99,,s_30482549_1,c.502C>T; p.(Glu168*) in exon 4,de novo missense mutation
+358,143,,s_30481285_1,c.884delT; p.(Leu295Tyrfs*25),homozygous frameshift variant
+359,143,,s_30481285_2,c.884delT; p.(Leu295Tyrfs*25),homozygous frameshift variant
+360,143,,s_30481285_3,c.884delT; p.(Leu295Tyrfs*25),homozygous frameshift variant
+361,143,,s_30481285_4,c.884delT; p.(Leu295Tyrfs*25),homozygous frameshift variant
+362,143,,s_30481285_5,c.884delT; p.(Leu295Tyrfs*25),homozygous frameshift variant
+363,143,,s_30481285_6,c.445C>T; p.(Arg149*),homozygous variant
+364,143,,s_30481285_7,c.445C>T; p.(Arg149*),homozygous variant
+365,143,,s_30481285_8,c.1072T>C; p.Cys358Arg,homozygous missense
+366,43,119600,s_30468148_1,c.463A>C; p.T155P,heterozygous mutation
+367,46,136140,s_30425916_1,c.7330C>T; p.Arg2444* in exon 34,heterozygous mutation
+368,144,615583,s_30352594_1,c.1357C>T; p.Gln453*,heterozygous nonsense
+369,24,614813,s_30310776_1,c.G491A,homozygous mutation
+370,46,136140,s_30304910_1,c.7732dupT; p.Ser2578Phefs*6 in exon 33,
+371,89,,s_30244542_1,c.586C>T; p.R196* in exon 5,nonsense variant
+372,89,,s_30244542_2,c.586C>T; p.R196* in exon 5,nonsense variant
+373,89,,s_30244542_3,c.586C>T; p.R196* in exon 5,nonsense variant
+374,89,,s_30244542_4,c.530G>A; p.R177H,hemizygous missense
+375,145,,s_30213762_1,c.595G>A; p.(Gly199Ser),heterozygous variant
+376,146,252600,s_30208878_1,c.2715+1G>A,compound heterozygous splice site variant
+377,146,252600,s_30208878_1,c.2404C>T (p.Q802*),compound heterozygous nonsense
+378,36,154500,s_30186496_1,c.165-1G>A in exon 3,heterozygous splice site variant
+379,36,154500,s_30186496_2,c.165-1G>A in exon 3,heterozygous splice site variant
+380,147,,s_30181650_1,c.1573C>T; p.Arg525Ter,heterozygous de novo nonsense
+381,148,,s_30181650_1,c.2834delGinsAGATGTTGTGGACCC; p.Arg945GlnfsTer22,heterozygous novel de novo frameshift nonsense
+382,149,,s_30122539_1,chr14:99670004-99987146 loss 317kb involved CCNK,heterozygous copy number loss
+383,149,,s_30122539_2,chr14:99268957-100028788 loss 760kb involved CCNK,heterozygous copy number loss
+384,149,,s_30122539_3,chr14:98058263-100498578 loss 2240kb involved CCNK,heterozygous copy number loss
+385,149,,s_30122539_4,c.331A>G; p.Lys111Glu,missense variant
+386,150,,s_30089473_1,c.238C>G; p.(Leu80Val),missense mutation
+387,54,101200,s_29868125_1,c.758C>G; p.Pro253Arg in exon 7,
+388,151,,s_29808498_1,c.2089C>T (p.Arg697*),homozygous nonsense variant
+389,151,,s_29808498_2,c.427C>T (p.Arg143*),homozygous nonsense variant
+390,151,,s_29808498_3,c.87_88delAG (p.Gly30Cysfs*4),homozygous frameshift variant
+391,152,,s_29752200_1,c.640C > T; p.Gln214* In exon 7,nonsense mutation
+392,152,,s_29752200_2,c.217_222del; p.Glu73_Arg74del In exon 4,heterozygous novel 6 base-pair deletion
+393,152,,s_29752200_3,c.740 T > C; p.Leu247Ser In exon 7,missense mutation
+394,152,,s_29752200_4,c.1008C > G; p.Tyr336* In exon 7,heterozygous nonsense mutation
+395,152,,s_29752200_5,c.775del; p.His259Thrfs7* In exon 7,heterozygous novel frameshift mutation
+396,152,,s_29752200_6,c.1A > G; p.Met1 In exon 1,heterozygous mutation
+397,153,169100,s_29683802_1,c.851T>C; p. Leu284Ser,heterozygous mutation
+398,131,213980,s_29682451_1,c. 340C>T; p.Arg.114*,homozygous mutation
+399,131,213980,s_29682451_2,c. 340C>T; p.Arg.114*,homozygous mutation
+400,154,,s_29572195_1,c.3719G>A (p.W1240*)/c.4926_4937del (p.N1643_L1646del),compound heterozygous mutation
+401,154,,s_29572195_2,c.4963C>T (p.R1655C)/c.8385C>G (p.Y2795*),compound heterozygous mutation
+402,155,,s_29519750_1,c.652G > T; p.Gly218Cys,missense mutation
+403,156,268400,s_29462647_1,c.1724_1725delAC; p.His575fs*7,rameshift variant
+404,156,268400,s_29462647_1,c.691G>A; p.Gly231Ser,missense variant
+405,156,268400,s_29462647_2,c.1724_1725delAC; p.His575fs*7,rameshift variant
+406,156,268400,s_29462647_2,c.691G>A; p.Gly231Ser,missense variant
+407,156,268400,s_29462647_3,c.1770_1807del; p.Pro591fs*2,rameshift variant
+408,156,268400,s_29462647_3,c.2421dupT; p.Asp808*,rameshift variant
+409,68,615485,s_29445472_1,c.3028delC; p.P1010Lfs*14 in exon 11,heterozygous single nucleotide deletion
+410,157,,s_29410513_1,c.1227delG; p.(Ala411Argfs*91),homozygous frameshift mutation
+411,157,,s_29410513_2,c.1227delG; p.(Ala411Argfs*91),homozygous frameshift mutation
+412,158,112240,s_29384951_1,deletion of exons 5 to 8,heterozygous deletion
+413,159,164745,s_29383834_1,c.1640C>A; p.S547X,heterozygous nonsense mutation
+414,86,610536,s_29381487_1,c.1058+2dup,splice site variant
+415,86,610536,s_29381487_2,c.1607+1G>A in intron 16,splice site mutation
+416,161,,s_29096665_1,c.521dupT; p.V174fs in exon 6,heterozygous  frameshift insertion
+417,161,,s_29096665_1,c.955 T > C; p.C319R in exon 12,heterozygous missense
+418,161,,s_29096665_2,c.521dupT; p.V174fs in exon 6,heterozygous  frameshift insertion
+419,161,,s_29096665_2,c.955 T > C; p.C319R in exon 12,heterozygous missense
+420,161,,s_29096665_3,c.521dupT; p.V174fs in exon 6,heterozygous  frameshift insertion
+421,161,,s_29096665_3,c.955 T > C; p.C319R in exon 12,heterozygous missense
+422,162,,s_29090019_1,a 2.8 Mb terminal deletion with a 496 kb interstitial micro-duplication,Chromosome variation
+423,163,,s_29062322_1,"a de novo 600 kb deletion affecting three genes-MGMT,EBF3 and GLRX",Chromosome variation
+424,164,601358,s_28948053_1,c.2564G>A; (p.Arg855Gln),heterozygous missense mutation
+425,165,231050,s_28917829_1,c.340G > A; (p.Glu114Lys) in exon 5,heterozygous missense mutation
+426,165,231050,s_28917829_1,c.234-2A > G,heterozygous splicing mutation
+427,166,,s_28905509_1,c.1381_1388del; p.(Asn461 fs) in exon 12,heterozygous frameshift mutation
+428,167,,s_28900819_1,c.765G > A; p.(Met255Ile),homozygous missense mutation
+429,167,,s_28900819_2,c.765G > A; p.(Met255Ile),homozygous missense mutation
+430,9,605130,s_28815892_1,c.3130_3133del; p.Q1045P fs*48,heterozygous nonsense mutation
+431,168,615716,s_28794914_1,c.851A>G; p.H284R in the exon 7,homozygous novel missense variant
+432,168,615716,s_28794914_2,c.851A>G; p.H284R in the exon 7,homozygous novel missense variant
+433,169,,s_28690993_1,terminal deletion,Chromosome variation
+434,170,602342,s_28687524_1,c.1337A > G; p.Tyr446Cys,heterozygous variant
+435,45,,s_28645799_1,c.2504delC; p.(Pro835Leufs*46) in exon 14,truncating de novo mutation
+436,45,,s_28645799_2,c.2579A>G; p.(Asp860Gly) in exon 15,missense mutation
+437,107,300860,s_28611923_1,c. 76G > A; p. Gly26Arg,missense mutation
+438,171,,s_28544239_1,c.4832 G>A in exon 35,hemizygous missense variation
+439,172,615381,s_28521875_1,c.3209T>A; (p.Ile1070Asn),heterozygous missense mutation
+440,172,615381,s_28521875_2,c.1812_1814del; p.S605del,heterozygous inframe deletion mutation
+441,173,,s_28480548_1,c.2820insG; p.Asn941fs*3 in exon 19,heterozygous single nucleotide insertion
+442,81,190351,s_28468609_1,c.2794G>T; (p.Ala932Ser),heterozygous missense mutation
+443,81,190351,s_28468609_2,c.2794G>T; (p.Ala932Ser),heterozygous missense mutation
+444,81,190351,s_28468609_3,c.2794G>T; (p.Ala932Ser),heterozygous missense mutation
+445,81,190351,s_28468609_2,c.2794G>T; (p.Ala932Ser),heterozygous missense mutation
+446,40,148050,s_28449295_1,c.1903_1907 del; pLys635GInfs*26,Frameshift
+447,40,148050,s_28449295_2,c.1903_1907 del; pLys635GInfs*26,Frameshift
+448,40,148050,s_28449295_3,c.1903_1907 del; pLys635GInfs*26,Frameshift
+449,40,148050,s_28449295_4,c.505G>T; p.Glu169*,nonsense
+450,40,148050,s_28449295_5,c.4406G>A; p.Trp1469*,nonsense
+451,40,148050,s_28449295_6,c.4406G>A; p.Trp1469*,nonsense
+452,40,148050,s_28449295_7,c.4406G>A; p.Trp1469*,nonsense
+453,40,148050,s_28449295_8,c.1903_1907 del; pLys635GInfs*26,Frameshift
+454,40,148050,s_28449295_9,c.1173C>G; p.Tyr391*,nonsense
+455,40,148050,s_28449295_11,c.7471A>C,Splice site
+456,40,148050,s_28449295_12,c.6409_6410del; p.Ser2137Profs*9,Frameshift
+457,40,148050,s_28449295_13,c.3224_3227delCTTT; p.Glu1075Glyfs*242,Frameshift
+458,40,148050,s_28449295_15,c.7216C>T; p.Gln2406*,Nonsense
+459,40,148050,s_28449295_16,c.3442G>A; p.Gly1148Ser,Missense
+460,40,148050,s_28449295_17,c.3442G>A; p.Gly1148Ser,Missense
+461,40,148050,s_28449295_18,c.6472G>T; p.Glu2158*,Nonsense
+462,174,,s_28411391_1,"327kb de novo microdeletion in the 19q13.32 region comprising eight genes (ARGHAP35,NPAS1,TMEM160,ZC3H4,SAE1,BBC3,MIR3190,and MIR3191)",Chromosome variation
+463,168,615716,s_28390064_1,c.402dupC; (p.M135Hfs*28),homozygous frameshift mutation
+464,168,615716,s_28390064_2,c.402dupC; (p.M135Hfs*28),homozygous frameshift mutation
+465,168,615716,s_28390064_3,c.402dupC; (p.M135Hfs*28),homozygous frameshift mutation
+466,168,615716,s_28390064_4,c.402dupC; (p.M135Hfs*28),homozygous frameshift mutation
+467,168,615716,s_28390064_6,c.402dupC; (p.M135Hfs*28),homozygous frameshift mutation
+468,168,615716,s_28390064_7,c.402dupC; (p.M135Hfs*28),homozygous frameshift mutation
+469,168,615716,s_28390064_8,c.402dupC; (p.M135Hfs*28),homozygous frameshift mutation
+470,168,615716,s_28390064_9,c.402dupC; (p.M135Hfs*28),homozygous frameshift mutation
+471,168,615716,s_28390064_10,c.402dupC; (p.M135Hfs*28),homozygous frameshift mutation
+472,168,615716,s_28390064_5,c.817_820delGACT; (p.D273Sfs*37),homozygous frameshift mutation
+473,54,101200,s_28316926_1,c.755C>G; (p.Ser252Trp),
+474,175,615155,s_28276056_1,c.521_528del; p.(Cys174Serfs*34),heterozygous frameshift
+475,175,615155,s_28276056_1,c.2119C>T; p.(Arg707*),heterozygous nonsense
+476,176,612313,s_28139846_1,c.124G>T; p.G42*,
+477,176,612313,s_28139846_2,c.346G>C; p.G116R,
+478,176,612313,s_28139846_3,c.400delG; p.A134Hfs*17,
+479,176,612313,s_28139846_4,c.482delA; p.K161Sfs*19,
+480,176,612313,s_28139846_5,c.583dupT; p.C195Lfs*14,
+481,176,612313,s_28139846_6,c.816delT; p.H273Tfs*21,
+482,176,612313,s_28139846_7,c.847C>T; p.R283*,
+483,176,612313,s_28139846_8,c.1255C>T; p.Q419*,
+484,176,612313,s_28139846_9,c.1286G>A; p.R429Q,
+485,176,612313,s_28139846_10,c.1286G>A; p.R429Q,
+486,176,612313,s_28139846_11,c.1728delT; p.E577Sfs*47,
+487,176,612313,s_28139846_12,c.1964C>T; p.P655L,
+488,177,,s_28017373_1,c.625C>T (p.Arg209Trp),missense
+489,177,,s_28017373_2,c.625C>T (p.Arg209Trp),missense
+490,177,,s_28017373_3,c.913C>T (p.Gln305),nonsense
+491,177,,s_28017373_4,c.196A>G (p.Asn66Asp),missense
+492,177,,s_28017373_5,c.1101+1G>T,splice-site mutation
+493,177,,s_28017373_6,c.530C>T (p.Pro177Leu),missense
+494,177,,s_28017373_7,c.422A>G (p.Tyr141Cys),missense
+495,177,,s_28017373_8,c.512G>A (p.Gly171Asp),missense
+496,177,,s_28017373_9,c.907C>T (p.Arg303),nonsense
+497,177,,s_28017373_10,c.469_477dup (p.His157_Ile159dup),9-bp duplication
+498,178,613684,s_27964710_1,c.7222_7223del; p.(Gln2408Glufs*39),heterozygous mutation
+499,180,,s_27882258_1,IVS1-2A>G,homozygous mutation
+500,180,,s_27882258_2,p.G843D; (c.2528G>A),homozygous mutation
+501,181,,s_27880953_1,22q11.22 loss 268 kb in size and included the TOP3B gene,Chromosome variation
+502,54,123500,s_27803855_1,c.1026C>G; (p.Cys342Trp),heterozygous missense mutation
+503,54,123500,s_27803855_2,c.1026C>G; (p.Cys342Trp),heterozygous missense mutation
+504,54,123500,s_27803855_3,c.1026C>G; (p.Cys342Trp),heterozygous missense mutation
+505,54,123500,s_27803855_4,c.1026C>G; (p.Cys342Trp),heterozygous missense mutation
+506,54,123500,s_27803855_5,c.1026C>G; (p.Cys342Trp),heterozygous missense mutation
+507,182,612921,s_27796265_1,c.1273 dupA; (p.T45Nfs*40),homozygous mutation
+508,9,605130,s_27777327_1,c.5932C>T; (p.Gln1978*),nonsense variant
+509,9,605130,s_27777327_2,c.3504G>A; (p.Gly1168Asp),missense variant
+510,183,,s_27751966_1,16p13.11 duplicatio,Chromosome variation
+511,184,,s_27751966_1,19p13.3 deletion included MAP2K2,Chromosome variation
+512,185,,s_27591971_1,a 20 Mb duplication at 1q42-q44,Chromosome variation
+513,186,,s_27591971_1,a 14.2 Mb duplication at 9q21.12-q21.33,Chromosome variation
+514,49,,s_27570168_1,c. 1259delA; (p. asn420Ilefs * 10),heterozygous frameshift mutation
+515,49,,s_27570168_2,c. 1259delA; (p. asn420Ilefs * 10),heterozygous frameshift mutation
+516,54,123500,s_27430617_1,c.811-812insGAG; (p.273insGlu),missense mutation
+517,54,123500,s_27430617_2,c.842A>G; (P.Tyr281Cys or Y281C),heterozygous missense mutation
+518,187,,s_27416976_1,an 11.35Mb loss at chromosome 1q23.3-25.1,Chromosome variation
+519,188,,s_27385966_1,a small interstitial 3p21.31 deletion included SETD2,Chromosome variation
+520,189,,s_27374896_1,an 8.6Mb deletion,Chromosome variation
+521,31,613456,s_27324866_1,c. 661-1G > C,splice acceptor site variant
+522,31,613456,s_27324866_2,c. 661-1G > C,splice acceptor site variant
+523,31,613456,s_27324866_3,c. 661-1G > C,splice acceptor site variant
+524,31,613456,s_27324866_4,c. 661-1G > C,splice acceptor site variant
+525,92,,s_27311832_1,c.5128T>C; p.Cys1710Arg in exon 30,
+526,92,,s_27311832_2,c.5240T>G; p.Leu1747Arg in exon 31,
+527,92,,s_27311832_3,c.5357G>C; p.Arg1786Pro in exon 31,
+528,92,,s_27311832_4,c.5456G>T; p.Cys1819Phe in exon 31,
+529,92,,s_27311832_5,c.5478C>G; p.Cys1826Trp in exon 31,
+530,92,,s_27311832_6,c.5513G>A; p.Cys1838Tyr in exon 31,
+531,92,,s_27311832_7,c.5599C>T; p.Arg1867Trp in exon 31,
+532,92,,s_27311832_8,c.5600G>A; p.Arg1867Gln in exon 31,
+533,92,,s_27311832_9,c.5602C>T; p.Arg1868Trp in exon 31,
+534,92,,s_27311832_10,c.5602C>T; p.Arg1868Trp in exon 31,
+535,92,,s_27311832_11,c.5614A>G; p.Met1872Val in exon 31,
+536,190,,s_27247625_1,"Microdeletions at 17q11.2,Seven genes,TAOK1,PHF12,NUFIP2,SLC26A4,SEZ6,GIT1 and TRAF4 are possible candidates",Chromosome variation
+537,191,,s_27164845_1,a 1.2-Mb deletion of 17p13.3,Chromosome variation
+538,192,,s_27164845_2,a 2.52-Mb duplication of 14q32.32q32.33,Chromosome variation
+539,193,,s_27148679_1,c.-_388+del,homozygous  deletion mutation
+540,193,,s_27148679_2,c.-_1710+del,homozygous  deletion mutation
+541,193,,s_27148679_3,c.1711-_2473+del,homozygous  deletion mutation
+542,193,,s_27148679_4,c.2298-_2657+del,homozygous  deletion mutation
+543,193,,s_27148679_5,c.1681C>T,homozygous missense mutation
+544,193,,s_27148679_6,c.-_388+del,homozygous  deletion mutation
+545,194,,s_27148580_1,c.1044delG; p.Trp348*,frameshift deletion mutation
+546,194,,s_27148580_2,c.542_543delCT; p.Ser181CysfsX5,frameshift deletion mutation
+547,194,,s_27148580_3,c.1945C>T; p.Gln649*,nonsense mutation
+548,194,,s_27148580_4,c.1969C>T; p.Gln657*,nonsense mutation
+549,194,,s_27148580_5,c.2029G>T; p.Glu677X,nonsense mutation
+550,195,,s_27108999_1,c.4906-2A>C 3',splice-site mutation
+551,195,,s_27108999_2,c.4906-2A>C 3',splice-site mutation
+552,196,,s_27091925_1,c.64 T > C; p. Trp22Arg,homozygous mutation
+553,196,,s_27091925_2,c.64 T > C; p. Trp22Arg,homozygous mutation
+554,196,,s_27091925_3,c.64 T > C; p. Trp22Arg,homozygous mutation
+555,196,,s_27091925_4,c.64 T > C; p. Trp22Arg,homozygous mutation
+556,196,,s_27091925_5,c.64 T > C; p. Trp22Arg,homozygous mutation
+557,196,,s_27091925_6,c.64 T > C; p. Trp22Arg,homozygous mutation
+558,196,,s_27091925_7,c.64 T > C; p. Trp22Arg,homozygous mutation
+559,196,,s_27091925_8,c.64 T > C; p. Trp22Arg,homozygous mutation
+560,196,,s_27091925_9,c.64 T > C; p. Trp22Arg,homozygous mutation
+561,196,,s_27091925_10,c.64 T > C; p. Trp22Arg,homozygous mutation
+562,68,615485,s_27075689_1,c. 3039 + 1G > A,heterozygous mutation
+563,62,607872,s_26893599_1,"1p36 deletion included TNFRSF4,GABRD,PEX 10,and GNB1 genes",Chromosome variation
+564,62,607872,s_26893599_2,"1p36 deletion included TNFRSF18,TNFRSF4,SCNN1D,GNB1,SKI,PANK4,and GABRD genes",Chromosome variation
+565,62,607872,s_26893599_3,"1p36 deletion included TNFRSF4,GABRD,PEX 10,ACTRT2,and GNB1 genes",Chromosome variation
+566,62,607872,s_26893599_4,"1p36 deletion included TNFRSF18,TNFRSF4,SCNN1D,GNB1,SKI,and GABRD genes",Chromosome variation
+567,62,607872,s_26893599_5,"1p36 deletion included TNFRSF18,TNFRSF4,SCNN1D,GNB1,SKI,and GABRD genes",Chromosome variation
+568,198,,s_26842963_1,c.382 G > A; (p.V128M),homozygous mutation
+569,198,,s_26842963_2,c.382 G > A; (p.V128M),homozygous mutation
+570,198,,s_26842963_3,c.382 G > A; (p.V128M),homozygous mutation
+571,198,,s_26842963_4,c.382 G > A; (p.V128M),homozygous mutation
+572,198,,s_26842963_5,c.382 G > A; (p.V128M),homozygous mutation
+573,198,,s_26842963_6,c.382 G > A; (p.V128M),homozygous mutation
+574,198,,s_26842963_7,c.382 G > A; (p.V128M),homozygous mutation
+575,198,,s_26842963_8,c.382 G > A; (p.V128M),homozygous mutation
+576,198,,s_26842963_9,c.382 G > A; (p.V128M),homozygous mutation
+577,198,,s_26842963_10,c.382 G > A; (p.V128M),homozygous mutation
+578,198,,s_26842963_11,c.382 G > A; (p.V128M),homozygous mutation
+579,198,,s_26842963_12,c.382 G > A; (p.V128M),homozygous mutation
+580,198,,s_26842963_13,c.382 G > A; (p.V128M),homozygous mutation
+581,198,,s_26842963_14,c.382 G > A; (p.V128M),homozygous mutation
+582,198,,s_26842963_15,c.382 G > A; (p.V128M),homozygous mutation
+583,25,,s_26842493_1,c.607 C > T; p. Arg203Trp,
+584,199,,s_26834018_1,"a de novo duplication of 445kb in chromosomal region 14q11.2 included RNASE7,RNASE8,ZNF219,OR5AU1,HNRNPC,RPGRIP1,SUPT16H,CHD8,RAB2B,and partially TOX4 genes",Chromosome variation
+585,200,,s_26759605_1,"A 6.4Mb duplication at 15q15.3q21.2 included FBN1,EID1,SEMA6D genes",Chromosome variation
+586,201,,s_26647099_1,trp16p11.2p12.3;dup16p12.3p13.11,Chromosome variation
+587,201,,s_26647099_2,trp16p12.1p12.3,Chromosome variation
+588,92,180849,s_26603346_1,c.1066C>T; p.Q356X,nonsense mutation
+589,202,214800,s_26551301_1,c. 2443-2A > G,splice-site mutation
+590,202,214800,s_26551301_2,c. 2504 _ 2508delATCTT; (p.Y835SfsX14),frameshift mutation
+591,203,,s_26269715_1,an interstitial deletion at 8q23.1-q24.12 of 12.5 Mb,Chromosome variation
+592,204,,s_26264232_1,c.1721G>A; (p.Trp574*),heterozygous mutation
+593,204,,s_26264232_2,c.1721G>A; (p.Trp574*),heterozygous mutation
+594,204,,s_26264232_3,c.267_268dup; (p.Asp90Trpfs*103),heterozygous frameshift mutation
+595,204,,s_26264232_4,c.374C>A; (p.Ser125*),heterozygous nonsense mutation
+596,204,,s_26264232_5,c.1852C>T; (p.Gln618*),nonsense mutation
+597,204,,s_26264232_6,c.112delA; (p.Ser38Alafs*154),heterozygous frameshift mutation
+598,205,,s_26236398_1,deletions in 2q13 of 1.8 Mb,Chromosome variation
+599,205,,s_26236398_2,deletions in 2q13 of 2.0 Mb,Chromosome variation
+600,206,,s_26180728_1,c. 466C > T; (p. Arg156Cys),missense mutation
+601,207,,s_26086840_1,c.667G>A; p.Gly223Ser,homozygous mutation
+602,208,,s_26082802_1,"two adjacent deletions spanning the 9p24.1p23 region 46,XY.arr 9p24.1p23(8,527,597-9,248,069)x0,9p23(9,316,105-9,491,477)x0 included PTPRD gene",homozygous deletion
+603,209,,s_26059428_1,c. 35C > A; (p.A12D),heterozygous mutation
+604,210,135400,s_26033841_1,A heterozygous 926kb deletion at 17q24.2-q24.3,Chromosome variation
+605,211,,s_25979662_1,a 0.875 Mb de novo deletion at 2p16.1 that includes only BCL11A,Chromosome variation
+606,108,273750,s_25945256_1,c.263 delT; (p.val88Ala) in exon 2,homozygous mutation
+607,119,,s_25944381_1,c.312C>G; p.(Tyr104a),nonsense mutation
+608,119,,s_25944381_2,c.613C>T; p.(Arg205a),nonsense mutation
+609,119,,s_25944381_3,c.1399C>T; p.(Arg467a),nonsense mutation
+610,119,,s_25944381_4,c.461delA; p.(Lys154Serfsa11),frameshift mutation
+611,119,,s_25944381_5,c.1101_1104delAGAT; p.(Asp368Argfsa2),frameshift mutation
+612,119,,s_25944381_6,c.452dup; p.(Asn151Lysfsa12),frameshift mutation
+613,119,,s_25944381_7,c.563A>T; p.(Lys188Ile),missense mutation
+614,119,,s_25944381_8,c.734T>G; p.(Leu245Arg),missense mutation
+615,119,,s_25944381_9,c.883C>T; p.(Leu295Phe),missense mutation
+616,119,,s_25944381_10,del21q22.13q22.2; g.38741104_40274106del,Chromosome variation
+617,119,,s_25944381_11,del21q22.13q22.2; g.38741104_40274106del,Chromosome variation
+618,119,,s_25944381_12,del21q22.12q22.13; g.37109504_38818534del,Chromosome variation
+619,119,,s_25944381_13,del21q22.13q22.2; g.37839410_41427526del,Chromosome variation
+620,119,,s_25944381_14,del21q22.13q22.2; g.38616718_42783594del,Chromosome variation
+621,212,,s_25900906_1,a 2.05Mb copy number loss in 1p35.2p35.1,Chromosome variation
+622,212,,s_25900906_2,a 5.32Mb overlapping copy number loss in 1p35.2p34.3,Chromosome variation
+623,213,,s_25900396_1,c.2113C>T; p.Q705X,nonsense mutation
+624,213,,s_25900396_2,c.964C>T; p.R322X,nonsense mutation
+625,214,,s_25898976_1,"a heterozygous deletion of 7.069Mb encompassing 23 genes (TCEB1,TMEM70,LY96,JPH1,GDAP1,FLJ39080,MIR2052,PI15,CRISPLD1,HNF4G,LOC100192378,ZFHX4,PEX2,PKIA,FAM164A,IL7,STMN2,HEY1,MRPS28,TPD52,ZBTB10,ZNF704,and PAG1)",Chromosome variation
+626,215,,s_25845712_1,a de novo 17.2Mb deletion of the long arm of chromosome 12,Chromosome variation
+627,216,,s_25839420_1,c.482G>A,homozygous missense mutation
+628,216,,s_25839420_2,c.482G>A,homozygous missense mutation
+629,216,,s_25839420_3,c.482G>A,homozygous missense mutation
+630,216,,s_25839420_4,c.25 delC; (p. His9Thrfs * 8),compound heterozygous truncating mutation
+631,216,,s_25839420_4,c.823 C > T; (p. Arg275 *),compound heterozygous truncating mutation
+632,217,,s_25774220_1,"an interstitial 393 kb duplication on the short arm of chromosome 4 (4p16.3) encompass FAM53A,SLBP,TMEM129,TACC3 genes and the 5' end of the FGFR3 gene",Chromosome variation
+633,218,,s_25772936_1,c.386A>T; (p.Tyr129Phe),
+634,218,,s_25772936_2,c.386A>T; (p.Tyr129Phe),
+635,218,,s_25772936_3,c.386A>T; (p.Tyr129Phe),
+636,218,,s_25772936_4,c. 907G > A; (p.Glu303Lys),
+637,43,,s_25755819_1,c. 476 del G; (p.G159fs175X),heterozygous mutation
+638,111,,s_25728777_1,c.3879 dupA; (p.Glu1294Argfs*19) in exon 18,frameshift mutation
+639,111,,s_25728777_2,c.3116_3117 delCT; (p.Ser1039*) in exon 17,frameshift mutation
+640,111,,s_25728777_3,c.4292 dupT; (p.Leu1431Phefs*8) in exon 18,frameshift mutation
+641,111,,s_25728777_4,c.4108G>T; (p.Glu1370*) in exon 18,truncating mutation
+642,111,,s_25728777_5,c.3830_3831insTT; (p.Arg1278Serfs*17) in exon 18,frameshift mutation
+643,111,,s_25728777_6,"arr 8p11.21(41,786,230-42,022,328) in exons 1-18",Chromosome variation
+644,45,,s_25712080_1,c.3765delC,heterozygous single base-pair deletion
+645,45,,s_25712080_2,c. 607dupT,heterozygous frameshift mutation
+646,45,,s_25712080_3,c.4420A>T,heterozygous nonsense mutation
+647,45,,s_25712080_4,c.908T>A,heterozygous missense mutation
+648,46,136140,s_25433523_1,c.7395delA; (p.Val2466Tyrfs*9),heterozygous frameshift mutation
+649,46,136140,s_25433523_2,c.7218dupT; (p.Gln2407Serfs*36),heterozygous frameshift mutation
+650,46,136140,s_25433523_3,c.7330C>T; (p.Arg2444*),heterozygous mutation
+651,46,136140,s_25433523_4,c.7303C>T; (p.Arg2435*),heterozygous mutation
+652,46,136140,s_25433523_5,c.6985C>T; (p.Arg2329*),heterozygous mutation
+653,219,,s_25426167_1,"an 13.11 Mb interstitial deletion in the long arm of chromosome 14,segment q24.3-q31.3",Chromosome variation
+654,40,148050,s_25424714_1,c.7481 dup; p.(Pro2495fs),
+655,40,148050,s_25424714_2,c.4391_ 4392del; p.(Lys1464fs),
+656,40,148050,s_25424714_3,c.6184del; p.(Leu2062fs),
+657,40,148050,s_25424714_4,c.3123_ 3126del; p.(Ile1042fs),
+658,40,148050,s_25424714_5,c.1460_ 1463del; p.(Glu487fs),
+659,40,148050,s_25424714_6,c.1903_ 1907del; p.(Lys635fs),
+660,40,148050,s_25424714_7,c.3832 A>T; p.(Lys1278a),
+661,40,148050,s_25424714_8,c.2751 dup; p.(Glu918a),
+662,40,148050,s_25424714_9,c.3382_ 3383del; p.(Asp1128fs),
+663,40,148050,s_25424714_10,c.1903_ 1907del; p.(Lys635fs),
+664,40,148050,s_25424714_11,c.6513 dup; p.(Gly2172fs),
+665,40,148050,s_25424714_12,c.1318C>T; p.(Arg440a),
+666,220,,s_25388005_1,c.2134 _ 2146dup13; (p.Gly716Profs * 25),homozygous duplication frameshift mutation
+667,86,610536,s_25387991_1,c.1435dup; (p.Thr479AsnfsX2),
+668,86,610536,s_25387991_2,c1859A>T; (p.Lys620Met),
+669,86,610536,s_25387991_3,c.784C>T; (p.Arg262Trp),
+670,221,,s_25337073_1,an 8.2-Mb duplication on chromosome 13q31.3q32.3 contains 29 genes,Chromosome variation
+671,222,148050,s_25187894_1,240-kb deletion include ANKRD11,Chromosome variation
+672,81,190350,s_25177352_1,c.3368 G>A; (p.Trp1123Stop),heterozygous nonsense mutation
+673,223,230740,s_25045128_1,c.1220_1221insT; (p. Ala408Cysfs*2),homozygous insertion mutation
+674,223,230740,s_25045128_2,c. 411A > G; (p. Gln137Gln),homozygous synonymous mutation
+675,223,230740,s_25045128_3,c. 411A > G; (p. Gln137Gln),homozygous synonymous mutation
+676,223,230740,s_25045128_4,c. 411A > G; (p. Gln137Gln),homozygous synonymous mutation
+677,223,230740,s_25045128_5,c.1150G>A; (p.Gly384Ser),homozygous missense mutation
+678,223,230740,s_25045128_6,c.1150G>A; (p.Gly384Ser),homozygous missense mutation
+679,206,304110,s_24919122_1,c.702_703delCA; p.(Phe234Leu*84),heterozygous deletion mutation
+680,224,,s_24911659_1,a de novo 230 kb deletion include XPO1 and USP34 genes,Chromosome variation
+681,227,612576,s_24838992_1,A microduplication of at least 264kb,Chromosome variation
+682,228,601552,s_24768550_1,c. 1852 _ 1856delinsGGG; (p. Asn618Glyfs = 20),frameshift mutation
+683,229,224900,s_24764207_1,c.84delC; (p.S29fs*74),homozygote deletion mutation
+684,161,,s_24700674_1,c.1012C>T; p. Arg338Ter,homozygous nonsense mutation
+685,161,,s_24700674_2,c.1012C>T; p. Arg338Ter,homozygous nonsense mutation
+686,161,,s_24700674_3,c.952C>T; (p.Arg318Ter),homozygous nonsense mutation
+687,161,,s_24700674_4,c.952C>T; (p.Arg318Ter),homozygous nonsense mutation
+688,230,,s_24700674_5,c.869delC; (p.L221fs),homozygous deletion mutation
+689,230,,s_24700674_6,c.869delC; (p.L221fs),homozygous deletion mutation
+690,231,,s_24697219_1,c. 754G > C; (p. Asp252His) in exon 5,de novo heterozygous mutation
+691,231,,s_24697219_2,c.364G>A; p.Glu122Lys,de novo mutation
+692,232,,s_24664804_1,de novo deletion of about 1.58Mb,Chromosome variation
+693,232,,s_24664804_2,de novo deletion of 1.4Mb,Chromosome variation
+694,232,,s_24664804_3,de novo deletion of 1.73Mb,Chromosome variation
+695,237,194190,s_24656633_1,"a microdeletion in the short arm of one of the pairs of the chromosome 4 (46,XY,del 4p16.3)",Chromosome variation
+696,238,244450,s_24615390_1,c. 61G > T; (p.Glu21 *),homozygous nonsense mutation
+697,238,244450,s_24615390_2,c.1445T>A; (p.Leu482His),homozygous missense mutation
+698,238,244450,s_24615390_3,c.1616T>C; (p.Leu539Pro),homozygous missense mutation
+699,238,244450,s_24615390_4,c.2990G>C; (p.Arg997Pro),homozygous missense mutation
+700,238,244450,s_24615390_5,c.2335G>A; (p.Gly779Arg),homozygous missense mutation
+701,238,244450,s_24615390_6,c.2098C>T; (p.Gln700*),compound heterozygous mutation
+702,238,244450,s_24615390_6,c.2990G>C; (p.Arg997Pro),compound heterozygous mutation
+703,239,164200,s_24508941_1,c.317T>G; (p.L106R),missense mutation
+704,239,164200,s_24508941_2,c.G139C; (p.D47H),missense mutation
+705,239,164200,s_24508941_3,c.C257A; (p.S86Y),missense mutation
+706,240,,s_24462886_5,a microdeletion encompassing a 74 Kb segment (ChrX: 79915277-79989789) included the 30 last exons of the BRWD3 gene from exon 11 up to exon 41,Chromosome variation
+707,241,,s_24462886_1,c. 3393C > G; (p. Tyr1131 *),hemizygous nonsense mutation
+708,241,,s_24462886_2,c. 3393C > G; (p. Tyr1131 *),hemizygous nonsense mutation
+709,241,,s_24462886_3,c. 3393C > G; (p. Tyr1131 *),hemizygous nonsense mutation
+710,241,,s_24462886_4,c. 3393C > G; (p. Tyr1131 *),hemizygous nonsense mutation
+711,242,,s_24440292_1,c. 919A > G; p. Arg307Gly,homozygous missense mutation
+712,243,,s_24440292_2,an intragenic 610 kb deletion comprising exons 13-19 of NRXN1,deletion mutation
+713,244,,s_24380767_1,100 kb deletion on the X chromosome affected the last five coding exons of PHF6,Chromosome variation
+714,244,,s_24380767_2,a 270 kb loss on Xq26.2-q26.3 comprises 14 deletions involving the PHF6 gene,Chromosome variation
+715,246,,s_24357464_1,"an interstitial deletion of 6.5Mb in chromosome 14,involving cytobands 14q22.3-q23.2 included 27 genes",Chromosome variation
+716,147,,s_24214399_1,a 190kb deletion at 3p13 includes exons 6-13 of FOXP1,Chromosome variation
+717,2,259775,s_24039075_1,a homozygous 487-kb deletion at 7p22.3 contains the FAM20C gene,Chromosome variation
+718,250,,s_23794269_1,"a 3.0Mb gain in 1q43q44 contains 15 genes,and includes AKT3",Chromosome variation
+719,252,108120,s_23678273_1,c. 397C > T; (p.R133W),heterozygous mutation
+720,253,,s_23613140_1,"a 684kb interstitial deletion on the short of chromosome 3 (3p25.3) including THUMPD3,SETD5,and THUMPD3-AS1",Chromosome variation
+721,256,610967,s_23612438_1,c.[-14C>T];[=],heterozygous variant
+722,256,610967,s_23612438_2,c.[-14C>T];[=],heterozygous variant
+723,256,610967,s_23612438_3,c.[-14C>T];[=],heterozygous variant
+724,256,610967,s_23612438_4,c.[-14C>T];[=],heterozygous variant
+725,81,190350,s_23451857_1,c. 1630C > T; (p.R544X),heterozygous nonsense mutation
+726,184,,s_23379592_1,deletion of the short arm of chromosome 19p13.3 contains MAP2K2 gene;size:1.6MB,Chromosome variation
+727,184,,s_23379592_2,deletion of the short arm of chromosome 19p13.3 contains MAP2K2 gene;size:1.82MB,Chromosome variation
+728,184,,s_23379592_3,deletion of the short arm of chromosome 19p13.3 contains MAP2K2 gene;size:0.392MB,Chromosome variation
+729,184,,s_23379592_4,deletion of the short arm of chromosome 19p13.3 contains MAP2K2 gene;size:0.06MB,Chromosome variation
+730,184,,s_23379592_5,deletion of the short arm of chromosome 19p13.3 contains MAP2K2 gene;size:1.03MB,Chromosome variation
+731,184,,s_23379592_6,deletion of the short arm of chromosome 19p13.3 contains MAP2K2 gene;size:1.05MB,Chromosome variation
+732,184,,s_23379592_7,deletion of the short arm of chromosome 19p13.3 contains MAP2K2 gene;size:0.803MB,Chromosome variation
+733,258,117550,s_23341071_1,"a heterozygous mosaic intragenic NSD1 deletion of at least 38kb,which included part of intron 2 and the entire exon 3",deletion mutation
+734,259,,s_23294540_1,Deletions in chromosome 6p22.3-p24.1 of 4846kb included JARID2 gene,Chromosome variation
+735,259,,s_23294540_2,Deletions in chromosome 6p22.3-p23 of 3125kb included JARID2 gene,Chromosome variation
+736,259,,s_23294540_3,Deletions in chromosome 6p22.3-p23 of 2301 kb included JARID2 gene,Chromosome variation
+737,259,,s_23294540_4,Deletions in chromosome 6p22.3 189 kb included JARID2 gene,Chromosome variation
+738,261,,s_23063576_1,"Arr cgh 16p13.3(chr16:3,701,913-3,945,522)(hg18-buid36)x3; 0.24Mb encompass the CREBBP gene",Chromosome variation
+739,261,,s_23063576_2,"Arr cgh 16p13.3 (chr16:3,646,249-4,031,022)(hg18-build36)x3; 0.47Mb encompass the CREBBP gene",Chromosome variation
+740,261,,s_23063576_3,"Arr cgh 16p13.3 (chr16:3,666,607-4,855,284)(hg18-build36)x3; 1.2Mb encompass the CREBBP gene",Chromosome variation
+741,261,,s_23063576_4,"Arr cgh 16p13.3 (chr16:2,763,441-4,074,810)(hg18-build36)x3; 1.3Mb encompass the CREBBP gene",Chromosome variation
+742,261,,s_23063576_5,"Arr cgh 16p13.3 (chr16:3,704,781-5,226,858)(hg18-build36)x3; 1.52Mb encompass the CREBBP gene",Chromosome variation
+743,261,,s_23063576_6,"Arr cgh 16p13.3 (chr16:2,576,804-4,951,720)(hg18-build36)x3; 2.4Mb encompass the CREBBP gene",Chromosome variation
+744,261,,s_23063576_7,"Arr cgh 16p13.3 (chr16:919,682-3,964,889)(hg18-build36)x3; 3Mb encompass the CREBBP gene",Chromosome variation
+745,261,,s_23063576_8,"Arr cgh 16p13.3 (chr16:1,325,176-4,812,901)(hg18-build36)x3; 3.5Mb encompass the CREBBP gene",Chromosome variation
+746,261,,s_23063576_9,"Arr cgh 16p13.3 (chr16:1,324,176-4,813,101)(hg18-build36)x3; 3.5Mb encompass the CREBBP gene",Chromosome variation
+747,81,190350,s_22964620_1,c. 2520dupT; (p. Arg841LysfsX3),heterozygous frameshift mutation
+748,81,190350,s_22964620_2,c.1630C>T; (p.Arg544X),heterozygous nonsense mutation
+749,262,,s_22902603_1,"a de novo 2.7 Mb gain of chromosome 8q12 (Chr8: 60,792,079-63,540,593) contains about 17 annotated genes,including CHD7,CA8,ASPH",Chromosome variation
+750,14,147920,s_22740433_1,c. 16295G > A,missense mutation
+751,14,147920,s_22740433_2,c. 16295G > A,missense mutation
+752,54,123500,s_22665975_1,c.1030G>C; (ala344Pro),heterozygous missense mutation
+753,54,123500,s_22665975_2,c.1030G>C; (ala344Pro),heterozygous missense mutation
+754,54,123500,s_22665975_3,c.1030G>C; (ala344Pro),heterozygous missense mutation
+755,263,256000,s_22410471_1,c.49+1 G>T in intron 1 and c.752_753del in exon 8,heterozygous mutation
+756,263,256000,s_22410471_2,c.743 C>A; p.Ala248Asp in exon 7,heterozygous mutation
+757,54,123500,s_22355256_1,c.866A>C; (Gln289Pro) in exon 8,heterozygous missense mutation
+758,54,123500,s_22355256_2,c.866A>C; (Gln289Pro) in exon 8,heterozygous missense mutation
+759,32,,s_22140057_1,c.673C>G; p.Q225E,homozygous missense mutation
+760,264,,s_21802062_1,deletions of arr 8q21.11q21.3 (74915253-84715130)x1 9.79 Mb,Chromosome variation
+761,264,,s_21802062_1,deletions ofarr 8q21.2q21.3 (86536728-88037242)x1 1.5 Mb,Chromosome variation
+762,264,,s_21802062_2,deletions of arr 8q21.11q21.2(74362438-84172022)x1 9.8Mb,Chromosome variation
+763,264,,s_21802062_3,deletions of arr 8q21.11q21.13 (77179233-81924253)x1 4.74Mb,Chromosome variation
+764,264,,s_21802062_4,deletions of arr 8q21.11 (74487194-78073108)x1 3.58Mb,Chromosome variation
+765,264,,s_21802062_5,deletions of arr 8q21.11q21.3 (77220253-90774646)x1 13.55Mb,Chromosome variation
+766,264,,s_21802062_6,deletions of arr 8q21.11q21.13 (74600271-80291446)x1 5.69Mb,Chromosome variation
+767,264,,s_21802062_7,deletions of arr 8q21.11q21.13 (77226464-82338741)x11 5.11Mb,Chromosome variation
+768,264,,s_21802062_8,deletions of arr 8q21.11(77098877-77766239)x1 0.66Mb,Chromosome variation
+769,217,194190,s_21792232_1,deletion,Chromosome variation
+770,265,,s_21741501_1,deletion,Chromosome variation
+771,265,,s_21741501_2,deletion,Chromosome variation
+772,266,,s_21674840_1,"partial duplication of the chromosome 16 involving 16q12.1-16q21 region,which is approximately 9.92 Mb in size",Chromosome variation
+773,267,,s_21594995_1,"a 5.0-Mb deletion at arr chr5q31.2q31.3(137,538,788-142,574,719)",Chromosome variation
+774,267,,s_21594995_2,"a 2.6-Mb deletion at arr chr5q31.3q31.3(139,117,448-141,682,547)",Chromosome variation
+775,268,,s_21167329_1,"8.9 Mb deletion ranged from 150,941,237 to 159,693,171 bp on chromosome 3 including 39 genes",Chromosome variation
+776,269,,s_21045960_1,"8.73 Mbthe centromeric breakpoint to be located at 79,381,592 (hg18)(SNP_A- 2113875) at 6q14.1,and the telomeric breakpoint at 88,101,121 (hg18)(SNP_A-1882803)",Chromosome variation
+777,269,,s_21045960_2,"4.50 Mb deletion to be located between 83,890,115-88,391,069 (CN_1200346 to CN_1189450)",Chromosome variation
+778,48,,s_21035106_1,c.2059G>A; (p.G687R),missense mutation
+779,48,,s_21035106_2,c.2059G>A; (p.G687R),missense mutation
+780,48,,s_21035106_3,c.870G>A; (p.W290X),nonsense mutation
+781,270,,s_20870045_1,"an interstitial deletion at chromosome 18q21.31 of at least 797 kb TXNL1 gene and WDR7 gene,to be involved in the deletion",Chromosome variation
+782,273,,s_20827438_1,c.1063 C > T; p.R355X,heterozygous nonsense mutation
+783,273,,s_20827438_1,c.1103 G > A; p.R368H,heterozygous  mutation
+784,274,608612,s_20814950_1,c. 743C > T; p. Pro248Leu in exon 6,Compound heterozygous missense mutation
+785,274,608612,s_20814950_2,c. 1349G > A; p. Trp450stop in exon 10,Compound heterozygous null mutation
+786,275,,s_20803649_1,a de novo 3.2Mb deletion from bands q12.2 to q13 on chromosome 16 (from 52.08 to 55.3Mb),Chromosome variation
+787,276,,s_20688202_1,"an 10,8 Mb interstitial deletion of the region 11q13.5-11q14.2 involved 78 genes",Chromosome variation
+788,277,,s_20662849_1,an ~1.3 Mb duplication at Xp11.23p11.3,Chromosome variation
+789,261,,s_20503307_1,a single 5.5Mb homozygous region at chromosome 16p13.3,Chromosome variation
+790,261,,s_20503307_2,a single 5.5Mb homozygous region at chromosome 16p13.3,Chromosome variation
+791,261,,s_20503307_3,a single 5.5Mb homozygous region at chromosome 16p13.3,Chromosome variation
+792,261,,s_20503307_4,a single 5.5Mb homozygous region at chromosome 16p13.3,Chromosome variation
+793,283,,s_20425834_1,homozygous deletion on 8q24.3 was shown to be 141.46kb in size and contain only the NIBP (TRAPPC9) gene,Chromosome variation
+794,43,119600,s_20082269_1,c.1259C->T; p.T420I,heterozygous missense mutation
+795,131,213980,s_20018682_1,c.139 _ 140delAG; p.Ser47Ter,homozygous frameshift mutation
+796,131,213980,s_20018682_2,c.139 _ 140delAG; p.Ser47Ter,homozygous frameshift mutation
+797,131,213980,s_20018682_3,c.139 _ 140delAG; p.Ser47Ter,homozygous frameshift mutation
+798,131,213980,s_20018682_4,c.139 _ 140delAG; p.Ser47Ter,homozygous frameshift mutation
+799,131,213980,s_20018682_5,c.139 _ 140delAG; p.Ser47Ter,homozygous frameshift mutation
+800,131,213980,s_20018682_6,c.139 _ 140delAG; p.Ser47Ter,homozygous frameshift mutation
+801,131,213980,s_20018682_7,c.139 _ 140delAG; p.Ser47Ter,homozygous frameshift mutation
+802,131,213980,s_20018682_8,c.139 _ 140delAG; p.Ser47Ter,homozygous frameshift mutation
+803,131,213980,s_20018682_9,c.139 _ 140delAG; p.Ser47Ter,homozygous frameshift mutation
+804,131,213980,s_20018682_10,c.139 _ 140delAG; p.Ser47Ter,homozygous frameshift mutation
+805,131,213980,s_20018682_11,c.139 _ 140delAG; p.Ser47Ter,homozygous frameshift mutation
+806,178,613684,s_20014264_1,c.7100 delC; p.P2366RfsX35,heterozygous mutation
+807,178,613684,s_20014264_2,c.638 delG; p.G213EfsX6,heterozygous mutation
+808,239,164200,s_19847613_1,c. 13A>T,heterozygous mutation
+809,239,164200,s_19638688_1,c.C31T;p.L11F,heterozygous missense mutation
+810,33,,s_19409524_1,595-2A > T,
+811,33,,s_19409524_2,608A > G,
+812,33,,s_19409524_3,502C > G,
+813,33,,s_19409524_4,502C > G,
+814,33,,s_19409524_5,547C > T,
+815,33,,s_19409524_6,543T > A,
+816,33,,s_19409524_7,578_581 delCTGA,
+817,33,,s_19409524_8,586C > T,
+818,33,,s_19409524_9,586C > T,
+819,112,609942,s_19396835_1,c.173C>T,heterozygous missense mutation
+820,112,609942,s_19396835_2,c.178G>A,
+821,44,,s_19298871_1,"The deleted region in chromosome band 3q29 at positions 197,220,066 and 198,827,780 with 1.607 mega bases (Mb) in size",Chromosome variation
+822,285,,s_19284984_1,a deletion of between 13.10 and 14.867 Mb,Chromosome variation
+823,286,309000,s_19168822_1,1722 C>A,heterozygous mutation
+824,245,301900,s_19161141_1,c.139-8A>G,heterozygous mutation
+825,245,301900,s_19161141_2,c.139-8A>G,heterozygous mutation
+826,245,301900,s_19161141_3,c.139-8A>G,heterozygous mutation
+827,245,301900,s_19161141_4,c.139-8A>G,heterozygous mutation
+828,245,301900,s_19161141_5,c.769A>G,hemizygous mutation
+829,287,261540,s_18759095_1,c.1020+1G>A,homozygous point mutation
+830,261,,s_18688873_1,a 1.7 Mb tandem duplication of chromosome region 16p13.3,Chromosome variation
+831,288,,s_18627055_1,a de novo 3 Mb interstitial deletion of chromosome 14q12 involved FOXG1 and PRKD1 gene,Chromosome variation
+832,291,,s_18546282_1,an interstitial duplication of 6.9 Mb at chromosome 22q: dup(22)(q13.1q13.2),Chromosome variation
+833,292,,s_18474784_1,c.695C>A; (p.Thr232Asn),heterozygous missense mutation
+834,292,,s_18474784_2,c.695C>A; (p.Thr232Asn),heterozygous missense mutation
+835,293,,s_18458017_1,"a 5.6-Mb deletion in 15q14 (chromosome 15: 3,18,33,000-3,74,77,000 bp)",Chromosome variation
+836,294,133540,s_18446857_1,c. 1034-1035 insT,homozygous insertion mutation
+837,21,235730,s_18259761_1,c.2372del C; p. T791fsX816,heterozygous stop mutation
+838,261,,s_18076105_1,"1 Mb deletion 46,XX,del(16)(p13.3)",Chromosome variation
+839,295,158300,s_18049072_1,c.G2021A; p.R674Q,heterozygous mutation
+840,296,,s_17998173_1,"46,XY,del(4) (q33). The size of the deletion was estimated to be about 18.9-22.9 Mb",Chromosome variation
+841,297,,s_17591464_1,an interstitial deletion of about 5.5 Mb: del(X)(p22.31p22.33),Chromosome variation
+842,199,,s_17545556_1,a de novo deletion of around 200kb of chromosome 14q11.2,Chromosome variation
+843,199,,s_17545556_2,a de novo deletion of ~1.6Mb at chromosome 14q11.2,Chromosome variation
+844,199,,s_17545556_3,"on chromosome 14q11.2,identifying a ~1.079Mb minimal deletion from 19853310 to 20932827bp",Chromosome variation
+845,298,,s_17512813_1,a 2.6 Mb deletion in 6q24.3-25.1,Chromosome variation
+846,206,304110,s_17300690_1,353G>T; Ser118Ile,heterozygous missense mutation
+847,299,,s_17250668_1,a 1.5 Mb de novo 22q11.21 duplication,Chromosome variation
+848,54,101600,s_16955501_1,c.890G>C; p.Trp290Cys,
+849,263,256000,s_16765830_1,"a missense mutation,T>G at position 530",homozygous missense mutation
+850,263,256000,s_16765830_2,"a nonsense mutation,C>T at position 244",homozygous nonsense mutation
+851,300,,s_16691587_1,"46,del(18)(p11.1-pter)",Chromosome variation
+852,300,,s_16691587_2,"46,del(18)(p11.1-pter)",Chromosome variation
+853,300,,s_16691587_3,"46,del(18)(p11.1-pter)",Chromosome variation
+854,300,,s_16691587_4,"46,del(18)(p11.1-pter)",Chromosome variation
+855,300,,s_16691587_5,"46,del(18)(p11.1-pter)",Chromosome variation
+856,301,,s_16691587_6,"46,del(18)(p11.2-pter)",Chromosome variation
+857,301,,s_16691587_7,"46,del(18)(p11.2-pter)",Chromosome variation
+858,202,214800,s_16400610_1,CHD7 mutations account for ~60% of cases of CHARGE syndrome,
+859,302,,s_15534873_1,a ~7.9 Mb sized terminal deletion,Chromosome variation
+860,302,,s_15534873_2,"a smaller,interstitial deletion sized 4.7-7.3 Mb",Chromosome variation
+861,303,,s_33016642_1,c.925C>G; p.(Arg309Gly),missense
+862,304,,s_32802951_1,c. 1079C > G (p. Thr360Arg),heterozygous missense
+863,304,,s_32802951_2,c.420G>T (p.Gln140His),heterozygous missense
+864,304,,s_32802951_3,c.974G>A (Gly325Asp),heterozygous variant
+865,304,,s_32802951_4,c.971A>G (p.Glu324Gly),heterozygous mutation
+866,305,,s_31945512_1,c.3347C>T; p.(Pro1116Leu) in exon 21,heterozygous mutation
+867,306,,s_31124279_1,c.3251_3261 delinsCCAG p.Val1084Ala fsX5,
+868,306,,s_31124279_2,c.4136A>C p.Tyr1379Ser,heterozygous missense
+869,306,,s_31124279_3,c.3992A>G p.Asn1331Ser,heterozygous missense
+870,306,,s_31124279_4,c.3862_3865 delTTCC,heterozygous variant
+871,306,,s_31124279_5,c.3334_3335 delAG,heterozygous variant
+872,306,,s_31124279_6,c.3085dup p.Gln1029Pro fsX4,heterozygous variant
+873,306,,s_31124279_7,c.3730G>T p.Glu1244X,heterozygous nonsense
+874,306,,s_31124279_8,c.225T>A p.Tyr75X,
+875,306,,s_31124279_9,c.2684delCC p.Phe895His fsX15,
+876,306,,s_31124279_10,c.4590delC p.Asp1531Thr fsX5,
+877,306,,s_31124279_11,c.445C>T p.Arg149X,
+878,306,,s_31124279_12,c.1085_1088delAGAG p.Glu362Ala fsX124,
+879,307,,s_30735726_1,"c.520C > T,p.(Arg174*)",nonsense mutation
+880,308,,,c.176G>A (p.Arg59His),
+881,308,,,c.670C>G (p.His224Asp),
+882,309,,s_30526868_1,c.2764C>T; p.Arg922*,
+883,309,,s_30526868_2,c.2764C>T; p.Arg922*,
+884,309,,s_30526868_3,c.840del; p.Asp280Glufs*10,
+885,309,,s_30526868_4,c.840del; p.Asp280Glufs*10,
+886,309,,s_30526868_5,c.840del; p.Asp280Glufs*10,
+887,309,,s_30526868_6,c.2635dup; p.Met879Asnfs*18 and c.795-1G>C,
+888,309,,s_30526868_7,c.2000_2004dup; p.Pro669Alafs*8,
+889,309,,s_30526868_8,c.4028+5G>A; p.Val1344*,
+890,309,,s_30526868_9,c.4028+5G>A; p.Val1344*,
+891,309,,s_30526868_10,c.3497delA; p.Asn1166Thrfs*84,
+892,310,,s_30088857_1,"c.1045_1046delCT,p.L349fs*24",heterozygous frameshift variant
+893,33,136760,s_29215096_1,"c.604C>T,p.Gln202*",homozygous nonsense variant
+894,33,136760,s_29215096_2,"c.604C>T,p.Gln202*",homozygous nonsense variant
+895,33,136760,s_29215096_3,"c.604C>T,p.Gln202*",homozygous nonsense variant
+896,33,136760,s_29215096_4,"c.604C>T,p.Gln202*",homozygous nonsense variant
+897,86,,s_28643921_1,c. 259C > T (p. Gln87 *),heterozygous mutation
+898,15,248340,s_28301481_1,c. 25C > T; p.Arg9Ter,compound heterozygous mutations
+899,15,248340,s_28301481_1,c. 226delA ; p.Gly77Glufs * 66,compound heterozygous mutations
+900,15,248340,s_28301481_2,c. 25C > T; p.Arg9Ter,compound heterozygous mutations
+901,15,248340,s_28301481_2,c. 226delA ; p.Gly77Glufs * 66,compound heterozygous mutations
+902,15,248340,s_28301481_3,c. 25C > T; p.Arg9Ter,
+903,15,248340,s_28301481_3,"c.528C>G,p.Cys176Trp",missense mutation
+904,15,248340,s_28301481_4,c.9G>A; p. Trp3Ter,homozygous nonsense mutation
+905,15,248340,s_28301481_5,c. 89 _ 98delATGACGCCTG;p.Asp30Ala*fs68,
+906,15,248340,s_28301481_6,c.309delT;p.Gly104Valfs*29,
+907,15,248340,s_28301481_7,c.G496A;p.Ala166Thr,
+908,314,,s_27541078_1,"a novel 513-kb deletion at 3q26.31(171,677,940-172,191,359) involve FNDC3B gene",Chromosome variation
+909,314,,s_27541078_2,"a 345-kb deletion at 3q26.31 (171,622,716-171,968,102) involve FNDC3B gene",Chromosome variation
+910,316,619123,s_35451546_1,"a homozygous 32,583-bp:g.40,529,942_40,562,524del deletion",homozygous deletion
+911,317,309580,s_35439766_1,c.5786+4 A>G,hemizygous intronic variant
+912,318,217400,s_35439766_1,c.1735_1737delCTC;p.Leu579del,homozygous variant
+913,86,610536,s_35435265_1,c. 671G > T;p.Gly224Val,heterozygous missense mutation
+914,319,614114,s_35434947_1,c.312T>G; (p.Tyr104*),homozygous nonsense mutation
+915,14,147920,s_35421397_1,c. 16343G > C; p.R5448P,heterozygous missense mutation
+916,14,147920,s_35421397_2,c. 16343G > C; p.R5448P,heterozygous missense mutation
+917,320,275630,s_35419035_1,c.461T > G; (p.L154R),homozygous missense mutation
+918,321,613310,s_35417085_1,c.533 dupC (p.D179Rfs * 6),heterozygous variant
+919,72,243310,s_35401677_1,c.478A > G; (p.Thr160Ala) in exon 4,heterozygous missense mutation
+920,322,615145,s_35397152_1,c.4411C>T; p.L1471F,compound mutation
+921,322,615145,s_35397152_1,c.1982A>G; p.E661G,compound mutation
+922,86,610536,s_35395430_1,"c.1465C>T,p.Gln489*",heterozygous pathogenic variant
+923,86,610536,s_35395430_2,c.271+1G>A,heterozygous pathogenic variant
+924,86,610536,s_35395430_3,"c.1421delT,p.Leu474Argfs*24",pathogenic variant
+925,86,610536,s_35395430_4,"c.1895delC,p.Thr632fs",heterozygous pathogenic variant
+926,86,610536,s_35395430_5,"c.2480T>G,p.Leu827Arg",heterozygous variant
+927,86,610536,s_35395430_6,a de novo exon 16 deletion,
+928,323,139210,s_35386616_1,c.1498A>G;p.Ile500Val,heterozygous missense variant
+929,324,602875,s_35368703_1,c.1112G>A p.(Arg371Gln),
+930,324,602875,s_35368703_1,c.2887+2T>C,
+931,324,602875,s_35368703_2,c.329G>A p.(Arg110His),homozygous missense mutation
+932,76,268310,s_35344616_1,c.323G>A;p.(Arg108Gln),homozygous mutation
+933,76,268310,s_35344616_2,c.323G>A;p.(Arg108Gln),homozygous mutation
+934,76,268310,s_35344616_3,c.355C>T;p.(Arg119*),homozygous mutation
+935,76,268310,s_35344616_4,c.(431_494+60)_(574_672)del,homozygous mutation
+936,76,268310,s_35344616_5,c.613C>T; p.(Arg205*),Compound Heterozygous mutation
+937,76,268310,s_35344616_5,c.1189C>T;p.(Arg397*),Compound Heterozygous mutation
+938,76,268310,s_35344616_6,c.899G>T;p.(Cys300Phe),Compound Heterozygous mutation
+939,76,268310,s_35344616_6,c.990delC; p.(Thr331Profs*114),Compound Heterozygous mutation
+940,76,268310,s_35344616_7,c.717C>A;p.(Cys239*),homozygous mutation
+941,76,268310,s_35344616_8,c.675delG; p.(Gln225Hisfs*220),homozygous mutation
+942,76,268310,s_35344616_9,c.2074C>A;p.(Pro692Thr),homozygous mutation
+943,76,268310,s_35344616_10,c.1516_1520delinsT; p.(Ile506*),homozygous mutation
+944,76,268310,s_35344616_11,c.1970G>A;p.(Arg657His),Compound Heterozygous mutation
+945,76,268310,s_35344616_11,chr9:g.94371974_94844329del,Compound Heterozygous mutation
+946,76,268310,s_35344616_12,c.494+4_494+7del,homozygous mutation
+947,76,268310,s_35344616_13,c.2T>G,homozygous mutation
+948,76,268310,s_35344616_14,c.79_80delTC; p.(Ser29Profs*5),homozygous mutation
+949,76,268310,s_35344616_15,c.1855C>A;p.(Arg619Ser),Compound Heterozygous mutation
+950,76,268310,s_35344616_15,c.2215T>C; p.(Phe739Leu),Compound Heterozygous mutation
+951,76,268310,s_35344616_16,c.1096C>T;p.(Arg366Trp),Compound Heterozygous mutation
+952,76,268310,s_35344616_16,c.2207G>A;p.(Arg736Gln),Compound Heterozygous mutation
+953,76,268310,s_35344616_17,c.623-11G>A,homozygous mutation
+954,76,268310,s_35344616_18,c.623-11G>A,homozygous mutation
+955,76,268310,s_35344616_19,c.2074C>A;p.(Pro692Thr),homozygous mutation
+956,76,268310,s_35344616_20,c.1083delG;p.(His362Thrfs*83),Compound Heterozygous mutation
+957,76,268310,s_35344616_20,c.1324C>T;p.(Arg442*),Compound Heterozygous mutation
+958,76,268310,s_35344616_21,c.904C>T;p.(Arg302Cys),Compound Heterozygous mutation
+959,76,268310,s_35344616_21,c.1970G>A;p.(Arg657His),Compound Heterozygous mutation
+960,76,268310,s_35344616_22,c.1100A>T;p.(Asn367Ile),Compound Heterozygous mutation
+961,76,268310,s_35344616_22,c.1189C>T;p.(Arg397*),Compound Heterozygous mutation
+962,325,617506,s_35338599_1,c.146C>G; p.Pro49Arg,heterozygous missense mutation
+963,325,617506,s_35338599_2,c.146C>G; p.Pro49Arg,heterozygous missense mutation
+964,326,186500,s_35332702_1,c.533G>A (p.Cys178Tyr),heterozygous missense mutation
+965,77,601631,s_35327965_1,c.313_314insA; p.(Tyr105*),frameshift mutation
+966,327,616920,s_35321723_1,c.947A>G (p.His316Arg),compound heterozygous mutation
+967,327,616920,s_35321723_1,c.1318_1319delAG (p.Ser440*),compound heterozygous mutation
+968,328,,s_35304602_1,"c.2335G>T,p.(Glu779*)",
+969,328,,s_35304602_2,"c.2335G>T,p.(Glu779*)",
+970,328,,s_35304602_3,"c.3408dupT,p.(Glu1137*)",
+971,328,,s_35304602_4,"c.3408dupT,p.(Glu1137*)",
+972,328,,s_35304602_5,c.574-2A>G,
+973,329,,s_35298084_1,c.C1297T (p.Pro433Ser) in the exon 8,homozygous missense variant
+974,68,615485,s_35276034_1,c.1063 G > T (p.E355 *),nonsense variant
+975,330,,s_35246174_1,c.884C>G; p.(Ala295Gly),homozygous mutation
+976,103,,s_35243762_1,c.964C>T (p.Gln322*),heterozygous genetic variant
+977,42,300867,s_35237736_1,c.3479G>T; (p.Gly1160Val),missense variant
+978,331,,s_35229282_1,c.1833del (p.Thr612Glnfs*22),homozygous variant
+979,331,,s_35229282_2,c.1833del (p.Thr612Glnfs*22),homozygous variant
+980,331,,s_35229282_3,c.1833del (p.Thr612Glnfs*22),homozygous variant
+981,331,,s_35229282_4,c.1833del (p.Thr612Glnfs*22),homozygous variant
+982,332,600920,s_35224863_1,c.2291_2292insC (p.Ser765LeufsTer6) in exon 14,homozygous novel pathogenic variant
+983,332,600920,s_35224863_2,c.488G>A (p.Cys163Tyr) in exon 4,homozygous missense novel variant
+984,333,115700,s_35222542_1,c.233C > T; (p. Ser78Phe) in exon 2,heterozygous missense variant
+985,334,249420,s_35205281_1,c.280C>G:p. (Arg94Gly),homozygous missense mutation
+986,65,600118,s_35196747_1,c.297del (p.Gln99fs) in exon 5,homozygous deletion
+987,65,600118,s_35196747_2,c.297del (p.Gln99fs) in exon 5,homozygous deletion
+988,336,,s_35189377_1,chr18:53254747_ 53254750 Disruption intron 1,
+989,336,,s_35189377_2,chr18:53243454_ 53287927 deletion 46 kb exon 1-3,
+990,336,,s_35189377_3,chr18:53243454_ 53287927 deletion 46 kb exon 1-3,
+991,337,,s_35182808_1,"c.461 A > G,p.Tyr154Cys in exon 5",homozygous missense variant
+992,338,617190,s_35182806_1,c.2485C > T; p. (Gln829*),heterozygous nonsense mutation
+993,339,170390,s_35174115_1,"c.413A>T,p.(Glu138Val)",heterozygous missense mutation
+994,339,170390,s_35174115_2,"c.413A>T,p.(Glu138Val)",heterozygous missense mutation
+995,43,119600,s_35169780_1,"c.1171 C > T,p.R391X",
+996,43,119600,s_35169780_2,IVS4 + 4delAAGT,heterozygous splice site
+997,43,119600,s_35169780_3,c.674G>A (p.R225Q),heterozygous missense mutation
+998,340,617537,s_35156329_1,c.368dup (p.G124Rfs*72),heterozygous frameshift mutation
+999,108,273750,s_35150935_1,c.4451_4452delTG; (p.Val1484Glyfs*69),homozygous frameshift deletion
+1000,108,273750,s_35150935_2,c.4451_4452delTG; (p.Val1484Glyfs*69),homozygous frameshift deletion
+1001,108,273750,s_35150935_3,c.4451_4452delTG; (p.Val1484Glyfs*69),homozygous frameshift deletion
+1002,108,273750,s_35150935_4,c.4451_4452delTG; (p.Val1484Glyfs*69),homozygous frameshift deletion
+1003,108,273750,s_35150935_5,c.4451_4452delTG; (p.Val1484Glyfs*69),homozygous frameshift deletion
+1004,108,273750,s_35150935_6,c.4451_4452delTG; (p.Val1484Glyfs*69),homozygous frameshift deletion
+1005,108,273750,s_35150935_7,c.4451_4452delTG; (p.Val1484Glyfs*69),homozygous frameshift deletion
+1006,341,217080,s_35150469_1,c.598T>C (p.S200P),homozygous nonsynonymous variant
+1007,341,217080,s_35150469_2,c.598T>C (p.S200P),homozygous nonsynonymous variant
+1008,342,619575,s_35091509_1,c.2203delA; p.Arg735fs,
+1009,342,619575,s_35091509_2,c.2203delA; p.Arg735fs,
+1010,342,619575,s_35091509_3,c.132 + 3_132 + 6delAAGT; p.,
+1011,342,619575,s_35091509_4,c.1324C > T; p.Arg442Trp,
+1012,343,613680,s_35084103_1,c.299G>A; p.Trp100Ter,homozygous truncating variant
+1013,344,617913,s_35052432_1,c.440A>G; p.His147Arg in exon 2,homozygous missense variant
+1014,344,617913,s_35052432_2,c.440A>G; p.His147Arg in exon 2,homozygous missense variant
+1015,345,,s_35042684_1,c.1174G>C; p.(A392P) in exon 7,homozygous missense mutation
+1016,345,,s_35042684_2,c.1174G>C; p.(A392P) in exon 7,homozygous missense mutation
+1017,345,,s_35042684_3,c.21-2A>G in intron 3,compound splicing mutation
+1018,345,,s_35042684_4,c.2397C>A; p.(Cys799*) in exon 15,stopgain mutation
+1019,345,,s_35042684_4,c.2935T>C; p.(Trp979Arg) in exon 17,missense mutation
+1020,345,,s_35042684_5,c.2236C>T; p.(Arg746Cys) in exon 14,missense mutation
+1021,345,,s_35042684_6,c.2169C>A; p.(C723*) in exon 13,stopgain mutation
+1022,346,269880,s_35080105_1,c.1456G>A (p.Ala486Thr),heterozygous missense variant
+1023,347,,s_35034608_1,c.114_119delinsAATTTCC: p.Pro39llefsTer17,heterozygous frameshift deletion variant
+1024,347,,s_35034608_2,c.114_119delinsAATTTCC: p.Pro39llefsTer17,heterozygous frameshift deletion variant
+1025,348,617360,s_35034425_1,c.2149 G>A (p. Gly717Arg) in exon 4,heterozygous missense variant
+1026,348,617360,s_35034425_2,c.2149 G>A (p. Gly717Arg) in exon 4,heterozygous missense variant
+1027,204,616708,s_34997803_1,c.1407del; p.(Ser470Valfs*15),heterozygous variant
+1028,204,616708,s_34997803_2,c.811C>T; p.(Gln271*),heterozygous nonsense variant
+1029,349,,s_34988992_1,c.938T>C; (p.Leu313Pro),compound heterozygous mutations
+1030,349,,s_34988992_1,c.75-3C>A; (p.Lys26Serfs*38),compound heterozygous mutations
+1031,350,110100,s_34966851_1,c.608T>C; (p.Ile203Thr),missense mutation
+1032,350,110100,s_34966851_2,c.608T>C; (p.Ile203Thr),missense mutation
+1033,350,110100,s_34966851_3,c.608T>C; (p.Ile203Thr),missense mutation
+1034,350,110100,s_34966851_4,c.608T>C; (p.Ile203Thr),missense mutation
+1035,350,110100,s_34966851_5,c.608T>C; (p.Ile203Thr),missense mutation
+1036,351,605822,s_34925453_1,c.1586dup p.(Thr530Hisfs*16),homozygous frameshift deletion variant
+1037,351,605822,s_34925453_2,c.1586dup p.(Thr530Hisfs*16),homozygous frameshift deletion variant
+1038,352,,s_34906488_1,c.443A>G; p.(Lys148Arg),
+1039,352,,s_34906488_2,c.443A>G; p.(Lys148Arg),
+1040,352,,s_34906488_3,"c.829C>T,p.(Arg277Cys)",heterozygous missense mutation
+1041,352,,s_34906488_3,"c.883C>T,p.(Arg295*)",heterozygous nonsense mutation
+1042,352,,s_34906488_4,"c.194C>G,p.(Ser65*)",heterozygous missense mutation
+1043,352,,s_34906488_4,c.1273T>G; p.(Phe425Val),heterozygous nonsense mutation
+1044,352,,s_34906488_5,"c.194C>G,p.(Ser65*)",heterozygous missense mutation
+1045,352,,s_34906488_5,c.1273T>G; p.(Phe425Val),heterozygous nonsense mutation
+1046,352,,s_34906488_6,c.611G>C; p.(Gly204Ala),homozygous missense mutation
+1047,352,,s_34906488_7,c.1271_1272delAC; p.(His424Leufs*12),heterozygous frameshift mutation
+1048,352,,s_34906488_7,"c.713T>G,p.(Leu238Arg)",heterozygous missense mutation
+1049,352,,s_34906488_8,c.1132C>T; p.(Arg378Cys-paternal),heterozygous missense mutation
+1050,352,,s_34906488_8,c.190G>A; p.(Ala64Thr-maternal),heterozygous missense mutation
+1051,352,,s_34906488_9,c.1132C>T; p.(Arg378Cys-paternal),heterozygous missense mutation
+1052,352,,s_34906488_9,c.190G>A; p.(Ala64Thr-maternal),heterozygous missense mutation
+1053,352,,s_34906488_10,c.1132C>T; p.(Arg378Cys-paternal),heterozygous missense mutation
+1054,352,,s_34906488_10,c.190G>A; p.(Ala64Thr-maternal),heterozygous missense mutation
+1055,20,216550,s_34898996_1,c.8275 delC (p.R2759 fs*18),heterozygous mutation
+1056,20,216550,s_34898996_1,the presence of exon 20-32 heterozygous deletion,heterozygous deletion
+1057,353,,s_34894068_1,c.625G>A (p.Glu209Lys),missense variant
+1058,354,,s_34877407_1,c.2233 C > G (p.Q745E),
+1059,354,,s_34877407_2,c.3392 _ 3393delAG (p.E1131Afs),
+1060,355,601812,s_34799960_1,c.1997A>G (p.Asn666Ser),heterozygous missense variation
+1061,356,617641,s_34797033_1,c.400dup p.Ala134Glyfs*65,frameshift variant
+1062,357,618371,s_34750959_1,p.P65L,heterozygous mutation
+1063,358,608572,s_34713892_1,c.93_94delCC;p.His32Argfs*21,heterozygous type 1 34 promoter deletion
+1064,358,608572,s_34713892_2,c.258-3C>G,heterozygous type 1 34 promoter deletion
+1065,359,617926,s_34623732_1,c.64del p.Ser22Hisfs*49,homozygous mutation
+1066,359,617926,s_34623732_2,c.64del p.Ser22Hisfs*49,homozygous mutation
+1067,360,607812,s_34580982_1,c.1795G>A; p.E599K,
+1068,361,,s_33827296_1,"c.340C>T,p.R114C",
+1069,362,,s_36183038_1,c.774_775del;p.Gly260Aspfs*29,
+1070,362,,s_36183038_2,c.713C>T;p.Ser238Leu,
+1071,363,613211,s_36836560_1,c.2680_2699delinsACTATAGTT;p.(Ser894Thrfs*15),
+1072,363,613211,s_36836560_2,"c.3025G>A,p.(Val1009Ile) in exon 18",homozygous missense variant
+1073,363,613211,s_36836560_2,"c.1467_1468delAT,p.(Val491Aspfs*8) in exon 12",homozygous deletion variant
+1074,363,613211,s_36836560_3,c.2332dupA;p.(Met778Asnfs*4) in exon 15,single nucleotide duplication
+1075,363,613211,s_36836560_3,c.1287_1289del;p.(Ile430del) in exon 11,non-frameshift three nucleotide deletion
+1076,363,613211,s_36836560_4,c.1766_1964del;p.(Gly589Valfs*16) in exon 14,homozygous frameshift deletion
+1077,364,190320,s_35714441_1,c.534G>C;p.Gln178His,heterozygous missense mutation
+1078,365,119580,s_36552944_1,c.1198G>A (p.Asp400Asn),heterozygous missense variant
+1079,365,119580,s_36552944_2,c.1198G>A (p.Asp400Asn),heterozygous missense variant
+1080,366,609220,s_35278031_1,c.1856G>A (p.R619H),
+1081,367,259450,s_35278031_2,c.1113dupT (p.D372*),
+1082,367,259450,s_35278031_3,c.807_828dup (P277Afs*103),
+1083,367,259450,s_35278031_4,c.807_828dup (P277Afs*103),
+1084,367,259450,s_35278031_5,c.1271_1272delCCinsA(p.A424Dfs*12),
+1085,367,259450,s_35278031_6,c.698C>T (p. P233L),
+1086,367,259450,s_35278031_7,c.698C>T (p. P233L),
+1087,367,259450,s_35278031_8,c.762_762delT (p.H255Tfs*4),
+1088,367,259450,s_35278031_9,c.762_762delT (p.H255Tfs*4),
+1089,366,609220,s_35278031_10,c.1280A>G (p.N427S),
+1090,366,609220,s_35278031_10,c.1559dupC (p.V523Cfs*7),
+1091,366,609220,s_35278031_11,c.1943G>C (p.R648P),
+1092,367,259450,s_35278031_12,c.807_828dup (p.P277Afs*103),
+1093,367,259450,s_35278031_13,c.807_828dup (p.P277Afs*103),
+1094,43,119600,s_35674542_1,c.739delA p.(Ser247Valfs*3) in exon 6,heterozygous frameshift variant
+1095,43,119600,s_35674542_2,c.901C>T p.(Gln301*) in exon 7,heterozygous nonsense variant
+1096,43,119600,s_35674542_3,c.1081C>T p.(Gln361*) in exon 8,heterozygous nonsense variant
+1097,43,119600,s_35674542_4,c.673C>T p.(Arg225Trp) in exon 5,heterozygous missense variant
+1098,43,119600,s_35674542_5,c.674G>A p.(Arg225Gln) in exon 5,heterozygous missense variant
+1099,42,300867,s_36890748_1,c.3715T>G (p.Trp1239Gly) in exon 25,heterozygous missense mutation
+1100,368,,s_36890748_1,c.94A>G (p.Asn32Asp) in exon 1,heterozygous missense mutation
+1101,92,219250,s_36937962_1,c.5837dupC,
+1102,369,609056,s_36833282_1,c.221T>A (p.Val74Glu),
+1103,369,609056,s_36833282_2,c.221T>A (p.Val74Glu),
+1104,369,609056,s_36833282_3,c.221T>A (p.Val74Glu),
+1105,370,311200,s_36833254_1,c.260A>G;p.Thy87Cys,
+1106,28,618672,s_36802310_1,"c.1058_1059insT;c.724delT,NM_014516.3c.387+2 T>C,NM_014516.3;",
+1107,28,618672,s_36802310_2,"c.1058_1059insT;c.724delT,NM_014516.3c.387+2 T>C,NM_014516.3;",
+1108,28,618672,s_36802310_3,"c.1058_1059insT;c.724delT,NM_014516.3c.387+2 T>C,NM_014516.3;",
+1109,372,601347,s_36778913_1,7p22.3-p22.1;8q24.23-q24,
+1110,372,245570,s_36778913_1,7p22.3-p22.1;8q24.23-q24,
+1111,373,618947,s_36757831_1,c.907_909delGAG(p.Glu303del),
+1112,136,618846,s_36757469_1,c.5070 + 1G > A;,
+1113,136,618846,s_36757469_2,c.2828G > A (p.R943Q),
+1114,140,615032,s_36731504_1,c.2854C>T (p.Arg952Ter),
+1115,371,617991,s_36726590_1,"g.79735299G>T (hg19);c.860C>A,p.(Ser287Tyr)",
+1116,151,619383,s_36692708_1,hg19:2:48692629A>G; c.748-3A>G,
+1117,206,304110,s_36685875_1,c.374A>C (p.Glu125Ala),
+1118,108,273750,s_36660029_1,c.418_419delAC (p.Thr140Cysfs*11),
+1119,100,618092,s_36605301_1,c.1887_c.1893delCGGCGGG (p.Gly630Glyfs*91),
+1120,49,614608,s_36588753_1,"c.1392_1402del,p.(Gln467Argfs*64)",
+1121,40,148050,s_36564961_1,"c.397+1G>A,c.226+1G>A,c.2454dup (p.Asn819fs*1),c.2647del (p.Glu883Argfs*94),c.4093C>T (p.Arg1365Ter),a 240kb deletion at 16q24.3,and c.(601+1_602-1)_(7713+1_7714-1)del (deletion of exons 5-9)",
+1122,375,616346,s_36553519_1,"(NM_001288739.1: c.350del,p.Pro117Argfs*14)",
+1123,376,616362,s_36531959_1,"c.586T>C,p.Cys196Arg",
+1124,100,618092,s_36470856_1,NM_138576.4(BCL11B_v001):c.2439_2452dup [p.(His818Argfs*31)],
+1125,21,235730,s_36345475_1,c.2761C>T (p.Arg921Ter),
+1126,377,618392,s_36330313_1,(c.2634C>A) p. (Ser878Arg),
+1127,317,301040,s_36292677_1,c.736C > T c.736C > T,
+1128,102,617752,s_36275919_1,(c.2959dupT),
+1129,102,617752,s_36275919_2,(NM_004238.2: c.1842G>A),
+1130,136,618846,s_36274669_1,[c.305_315delinsTATGCT p.(Glu102Valfs*25)],
+1131,100,618092,s_36176959_1,NM_138576.4: c.427 + 1G > A,
+1132,100,618092,s_36176959_2,NM_138576.4: c.427 + 1G > A,
+1133,100,618092,s_36176959_3,NM_138576.2: c.2461_2462 ins GAGCCACACCGGCG(p.Glu821Glyfs*28),
+1134,100,618092,s_36176959_4,NM_138576.2: c.2461_2462 ins GAGCCACACCGGCG(p.Glu821Glyfs*28),
+1135,379,269150,s_36147799_1,(c.2605A > G:p.S869G),
+1136,14,147920,s_36090579_1,"(c.15143G > A,p. R5048H)",
+1137,380,615139,s_36071887_1,(c.5811 + 2T > C),
+1138,381,303600,s_36046249_1,c.898C>T (p.R300X),
+1139,381,303600,s_36046249_2,c.898C>T (p.R300X),
+1140,381,303600,s_36046249_2,c.898C>T (p.R300X),
+1141,382,614261,s_36033615_1,[c.843_844del (p.C282Wfs*11);c.920G > A (p.G307E)],
+1142,317,309580,s_35962714_1,"(c.5182G>C,p.Ala1728Pro)",
+1143,9,605130,s_35798298_1,c.731T>G(p.Leu244*),
+1144,383,603736,s_35707592_1,"NM_012330.3:c.1013A>G,p.(Tyr338Cys)",
+1145,383,606170,s_35707592_1,"NM_012330.3:c.1013A>G,p.(Tyr338Cys)",
+1146,245,301900,s_35662002_1,exon 6-7 deletion,
+1147,245,301900,s_35662002_2,"c.88C>T,p.(Gln30*)",
+1148,245,301900,s_35662002_3,"c.88C>T,p.(Gln30*)",
+1149,245,301900,s_35662002_4,"c.129dup,p.(Lys44*)",
+1150,245,301900,s_35662002_5,"c.346C>T,p.(Arg116*)",
+1151,245,301900,s_35662002_6,"c.374+ 1G>A,r.spl",
+1152,245,301900,s_35662002_7,"c.820C>T,p.(Arg274*)",
+1153,245,301900,s_35662002_8,"c.845T>C,p.(Leu282 Pro)",
+1154,245,301900,s_35662002_9,"c.859G>A,p.(Gly287 Ser)",
+1155,245,301900,s_35662002_10,"c.898A>G,p.(Thr300Ala)",
+1156,384,619074,s_35656379_1,c.980T>C,
+1157,92,180849,s_35637708_1,c.3676 (variant CREBBP NM_004380.3 c.3676del p(Ala1226ProfsTer24)),
+1158,204,616708,s_35266333_1,NA,
+1159,385,615560,s_35595062_1,NM_006192.5:c.501del p.(Ser168Alafs*4),
+1160,194,184260,s_34111908_1,"c.1225G>T (p.Asp409Tyr),c.3296_3298delinsTG (p.Lys1099Metfs*6)",
+1161,386,305000,s_36111181_1,c.92A>C (p. Q31P) in exon 3,missense mutation
+1162,386,305000,s_36111181_2,c.1058 C > T (p. A353V),missense mutation
+1163,386,305000,s_36111181_3,c.1058 C > T (p. A353V),missense mutation
+1164,387,267750,s_36684549_1,c.2908C>T; (p.Arg970Ter) in exon 26,homozygous stop-gain variant
+1165,387,267750,s_36684549_2,c.2908C>T; (p.Arg970Ter) in exon 26,homozygous stop-gain variant
+1166,389,616900,s_36273129_1,c.247 C > T (p. Arg83Ter),homozygous nonsense mutation
+1167,29,601321,s_36803953_1,c.4375-4377delGAA (p.Glu1459del),small deletion variant
+1168,29,601321,s_35633639_1,s c.6189 C > G;p.(Tyr2063*),heterozygous nonsense mutation
+1169,81,190350,s_36093893_1,c.2854_2858del (p.Asn952ArgfsTer2),frameshift variant
+1170,325,617506,s_36160684_1,C. 371A > G (p.H124R),heterozygous missense mutation
+1171,390,615866,s_35938035_1,"c.425C>G,p.A142G",heterozygous missense variant
+1172,390,615866,s_35938035_2,"c.820A>T,p.K274*",heterozygous nonsense variant
+1173,390,615866,s_35938035_3,"c.337T>C,p.Y113H",heterozygous missense variant
+1174,49,135900,s_35879281_1,"c.4282C>T,p.(Gln1428*)",nonsense variant
+1175,391,617808,s_35813374_1,c. 2610delT,frameshift mutation
+1176,391,617808,s_35813374_2,c.674 G > A;p. Trp225 *,nonsense mutation
+1177,392,618362,s_35536477_1,c. 2074G > C (p. Ala692Pro),heterozygous missense variation
+1178,393,613406,s_36158056_1,c.1015C>T (p.Gln339Ter),heterozygous truncating variant
+1179,20,216550,s_36067876_1,c.412+1G>T,Splicing variant
+1180,20,216550,s_36067876_2,c.412+1G>T,Splicing variant
+1181,20,216550,s_36067876_3,c.10156insA; p.Thr3386AsnfsTer3,frameshift variant
+1182,20,216550,s_36067876_4,c.3598C>T; p.Arg1200Ter,Nonsense variant
+1183,20,216550,s_36067876_4,c.11833C>T; p.Arg3945Ter,Nonsense variant
+1184,20,216550,s_36067876_5,deletion (exons 4-11),Large deletion variant
+1185,20,216550,s_36067876_6,deletion (exons 4-11),Large deletion variant
+1186,20,216550,s_36067876_7,c.3598C>T; p.Arg1200Ter,Nonsense variant
+1187,20,216550,s_36067876_8,c.412+1G>T,Splicing variant
+1188,20,216550,s_36067876_9,c.412+1G>T,Splicing variant
+1189,20,216550,s_36067876_10,c.436C>T; p.Arg146Ter,Nonsense variant
+1190,20,216550,s_36067876_11,c.412+1G>T,Splicing variant
+1191,20,216550,s_36067876_12,c.412+1G>T,Splicing variant
+1192,395,219100,s_36777703_1,"c.862G>T,p.(Asp288Tyr) in exon 8",homozygousmissense variant
+1193,330,615075,s_36153650_1,c.495+2dup,Splicing variant
+1194,330,615075,s_36153650_2,c.1857_1858del; p.(Cys619*),Nonsense variant
+1195,330,615075,s_36153650_3,c.1154dup; p.(Arg386Glnfs*9),Frameshift variant
+1196,330,615075,s_36153650_4,c.1759C>T; p.(Arg587*),Nonsense variant
+1197,330,615075,s_36153650_5,c.1759C>T; p.(Arg587*),Nonsense variant
+1198,330,615075,s_36153650_6,c.1494dup; p.(His499Thrfs*31),Frameshift variant
+1199,330,615075,s_36153650_7,c.735-1G>T; Splice variant,Splicing variant
+1200,330,615075,s_36153650_8,c.268C>T; p.(Arg90*),Nonsense variant
+1201,330,615075,s_36153650_9,c.299_300del; p.(Pro100Argfs*5),Frameshift variant
+1202,330,615075,s_36153650_10,c.999C>A; p.(Tyr333*),Nonsense variant
+1203,330,615075,s_36153650_11,c.987dup; p.(Thr330Aspfs*23),Frameshift variant
+1204,330,615075,s_36153650_12,c.283C>T; p.(Arg95*),Nonsense variant
+1205,330,615075,s_36153650_13,c.1843dup; p.(Ala615Glyfs*6),Frameshift variant
+1206,330,615075,s_36153650_14,c.2010del; p.(Tyr670*),Nonsense variant
+1207,330,615075,s_36153650_15,c.931del; p.(Ser311Alafs*14),Frameshift variant
+1208,330,615075,s_36153650_16,c.1760_1761del; p.(Arg587Hisfs*21),Frameshift variant
+1209,330,615075,s_36153650_17,c.1853dup; p.(Cys619Leufs*2),Frameshift variant
+1210,330,615075,s_36153650_18,c.950del; p.(Ala317Valfs*8),Frameshift variant
+1211,330,615075,s_36153650_19,c.1689_1690dup; p.(Val564Glyfs*7),Frameshift variant
+1212,330,615075,s_36153650_20,c.242-1G>C,Splicing variant
+1213,330,615075,s_36153650_21,c.2098dup; p.(Ile700Asnfs*14),Frameshift variant
+1214,330,615075,s_36153650_22,c.1420C>T; p.(Arg474*),Nonsense variant
+1215,330,615075,s_36153650_23,c.268C>T; p.(Arg90*),Nonsense variant
+1216,330,615075,s_36153650_24,c.268C>T; p.(Arg90*),Nonsense variant
+1217,396,617616,s_35627197_1,c.977delA (p. N326Ifs*2) in exon 6,heterozygous frameshift variant
+1218,396,617616,s_35627197_2,c.1020-2A>G (p. R340Sfs*29),heterozygous variant
+1219,397,614701,s_36672860_1,"c.1722_1723delTG,p.Gly575SerfsTer2",heterozygous frameshift deletion variant
+1220,107,300860,s_35846913_1,c.241+ 1 G>A,hemizygous mutation
+1221,172,615381,s_36280868_1,c.3185A>G; p.(Gln1062Arg),missense variant
+1222,398,,s_35602880_1,"c. 49G > A,p. Glu17Lys",
+1223,399,618828,s_35892095_1,"c.362G>A,p.Arg121Gln",missense variant
+1224,100,618092,s_36275064_1,c.2346_2361del; p.G783A fs*24,heterozygous frameshift variant
+1225,400,,s_36478500_1,c.75delG; (p. Gly27GlufsTer133 or p. Gly27Glufs*133),frameshift mutation
+1226,401,618804,s_36158057_1,c.1087C>T (p.Gln363Ter),homozygous mutation
+1227,402,,s_35790984_1,c.3165C>T (p.Pro1055Pro),heterozygous mutation
+1228,402,,s_35790984_1,c.2640C>G (p.Arg880Arg),heterozygous mutation
+1229,403,,s_35790984_2,c.481G>A (p.Gly161Arg),heterozygous mutation
+1230,21,235730,s_36676725_1,c.2080T>C(p. gla694Ter),
+1231,404,280000,s_35258128_1,"c.500T>C,p.(Leu167Pro)",heterozygous compound missense variant
+1232,404,280000,s_35258128_1,"c.154 G > A,p (Asp52Asn)",heterozygous compound missense variant
+1233,347,,s_36816037_1,c.-128-2 A>G,Splicing mutation
+1234,347,,s_36816037_2,c.161T>G;p.Val54Gly,missense mutation
+1235,347,,s_36816037_3,c.170T>A;p.Leu57Gln,missense mutation
+1236,347,,s_36816037_4,c.217G>T;p.Gly73Cys,missense mutation
+1237,347,,s_36816037_5,c.357delC;p.Ser119Argfs*5,Deletion
+1238,347,,s_36816037_6,g.20835_23262del,Deletion
+1239,347,,s_36816037_7,c.575_576del;p.Ser192fs,Deletion
+1240,347,,s_36816037_8,c.688G>T;p.Glu230*,nonsense mutation
+1241,405,,s_36061348_1,"c. 1411C > T,p. R471 *",homozygous mutation
+1242,405,,s_36061348_2,"c. 1411C > T,p. R471 *",homozygous mutation

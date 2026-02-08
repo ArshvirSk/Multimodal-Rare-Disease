@@ -1,0 +1,51 @@
+Image_ID,Disease_Type,Age_Range,Biological_Sex,Ancestry,Generation_Method
+SYN_CdLS_001,Cornelia de Lange Syndrome,3-6,male,latino,StyleGAN3
+SYN_CdLS_002,Cornelia de Lange Syndrome,7-9,male,european,StyleGAN3
+SYN_CdLS_003,Cornelia de Lange Syndrome,3-6,male,latino,StyleGAN3
+SYN_CdLS_004,Cornelia de Lange Syndrome,3-6,female,latino,StyleGAN3
+SYN_CdLS_005,Cornelia de Lange Syndrome,7-9,female,european,StyleGAN3
+SYN_WBS_001,Williams Syndrome,0-2,female,african,StyleGAN3
+SYN_WBS_002,Williams Syndrome,3-6,male,asian,StyleGAN3
+SYN_WBS_003,Williams Syndrome,3-6,female,european,StyleGAN3
+SYN_WBS_004,Williams Syndrome,0-2,male,european,StyleGAN3
+SYN_WBS_005,Williams Syndrome,3-6,female,multi_ancestry,StyleGAN3
+SYN_NS_001,Noonan Syndrome,0-2,female,asian,StyleGAN3
+SYN_NS_002,Noonan Syndrome,3-6,male,latino,StyleGAN3
+SYN_NS_003,Noonan Syndrome,0-2,male,european,StyleGAN3
+SYN_NS_004,Noonan Syndrome,7-9,male,european,StyleGAN3
+SYN_NS_005,Noonan Syndrome,3-6,female,multi_ancestry,StyleGAN3
+SYN_KS_001,Kabuki Syndrome,7-9,male,latino,StyleGAN3
+SYN_KS_002,Kabuki Syndrome,3-6,female,asian,StyleGAN3
+SYN_KS_003,Kabuki Syndrome,10-14,female,multi_ancestry,StyleGAN3
+SYN_KS_004,Kabuki Syndrome,7-9,male,latino,StyleGAN3
+SYN_KS_005,Kabuki Syndrome,0-2,female,european,StyleGAN3
+SYN_KBG_001,KBG Syndrome,3-6,male,european,StyleGAN3
+SYN_KBG_002,KBG Syndrome,3-6,male,latino,StyleGAN3
+SYN_KBG_003,KBG Syndrome,7-9,male,european,StyleGAN3
+SYN_KBG_004,KBG Syndrome,3-6,female,european,StyleGAN3
+SYN_KBG_005,KBG Syndrome,10-14,male,latino,StyleGAN3
+SYN_AS_001,Angelman Syndrome,10-14,female,european,StyleGAN3
+SYN_AS_002,Angelman Syndrome,3-6,male,european,StyleGAN3
+SYN_AS_003,Angelman Syndrome,10-14,male,latino,StyleGAN3
+SYN_AS_004,Angelman Syndrome,10-14,male,european,StyleGAN3
+SYN_AS_005,Angelman Syndrome,3-6,female,european,StyleGAN3
+SYN_RSTS_001,Rubinstein-Taybi Syndrome,0-2,female,latino,StyleGAN3
+SYN_RSTS_002,Rubinstein-Taybi Syndrome,10-14,male,european,StyleGAN3
+SYN_RSTS_003,Rubinstein-Taybi Syndrome,3-6,female,asian,StyleGAN3
+SYN_RSTS_004,Rubinstein-Taybi Syndrome,15-19,female,european,StyleGAN3
+SYN_RSTS_005,Rubinstein-Taybi Syndrome,7-9,male,latino,StyleGAN3
+SYN_SMS_001,Smith-Magenis Syndrome,15-19,female,european,StyleGAN3
+SYN_SMS_002,Smith-Magenis Syndrome,3-6,male,european,StyleGAN3
+SYN_SMS_003,Smith-Magenis Syndrome,7-9,male,european,StyleGAN3
+SYN_SMS_004,Smith-Magenis Syndrome,0-2,female,european,StyleGAN3
+SYN_SMS_005,Smith-Magenis Syndrome,7-9,male,european,StyleGAN3
+SYN_NBS_001,Nicolaides-Baraitser Syndrome,15-19,male,latino,StyleGAN3
+SYN_NBS_002,Nicolaides-Baraitser Syndrome,3-6,male,european,StyleGAN3
+SYN_NBS_003,Nicolaides-Baraitser Syndrome,3-6,male,european,StyleGAN3
+SYN_NBS_004,Nicolaides-Baraitser Syndrome,7-9,male,latino,StyleGAN3
+SYN_NBS_005,Nicolaides-Baraitser Syndrome,7-9,male,european,StyleGAN3
+SYN_22Q_001,22q11.2 Deletion Syndrome,15-19,male,latino,StyleGAN3
+SYN_22Q_002,22q11.2 Deletion Syndrome,3-6,male,european,StyleGAN3
+SYN_22Q_003,22q11.2 Deletion Syndrome,3-6,male,asian,StyleGAN3
+SYN_22Q_004,22q11.2 Deletion Syndrome,3-6,male,asian,StyleGAN3
+SYN_22Q_005,22q11.2 Deletion Syndrome,3-6,male,european,StyleGAN3

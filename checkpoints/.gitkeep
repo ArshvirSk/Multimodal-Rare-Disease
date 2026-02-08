@@ -1,0 +1,2 @@
+# This file ensures the checkpoints directory is tracked by git
+# Model weights are excluded via .gitignore due to size

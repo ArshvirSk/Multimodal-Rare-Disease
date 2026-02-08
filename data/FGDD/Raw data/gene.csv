@@ -1,0 +1,398 @@
+gid,gene_id,gene_name,full_name,chromosomes_name,chromosomal_loci,exon_count
+1,6491,STIL,STIL centriolar assembly protein,Chromosome 1,1p33,23
+2,56975,FAM20C,FAM20C golgi associated secretory pathway kinase,Chromosome 7,7p22.3,12
+4,2200,FBN1,fibrillin 1,Chromosome 15,15q21.1,68
+5,2201,FBN2,fibrillin 2,Chromosome 5,5q23.3,65
+6,84572,GNPTG,N-acetylglucosamine-1-phosphate transferase subunit gamma,Chromosome 16,16p13.3,11
+7,,,,Chromosome 18,,
+8,,,,Chromosome 1,p36.33-p36.32,
+9,4297,KMT2A,lysine methyltransferase 2A,Chromosome 11,11q23.3,37
+11,283446,MYO1H,myosin IH,Chromosome 12,12q24.11,35
+12,51633,OTUD6B,OTU deubiquitinase 6B,Chromosome 8,8q21.3,8
+13,57178,ZMIZ1,zinc finger MIZ-type containing 1,Chromosome 10,10q22.3,27
+14,8085,KMT2D,lysine methyltransferase 2D,Chromosome 12,12q13.12,55
+15,10584,COLEC10,collectin subfamily member 10,Chromosome 8,8q24.12,9
+16,139285,AMER1(WTX),APC membrane recruitment protein 1,Chromosome X,Xq11.2,2
+17,124583,CANT1,calcium activated nucleotidase 1,Chromosome 17,17q25.3,6
+18,31,ACACA,acetyl-CoA carboxylase alpha,Chromosome 17,17q12,66
+19,171023,ASXL1,ASXL transcriptional regulator 1,Chromosome 20,20q11.21,17
+20,157680,VPS13B,vacuolar protein sorting 13 homolog B,Chromosome 8,8q22.2,65
+21,9839,ZEB2,zinc finger E-box binding homeobox 2,Chromosome 2,2q22.3,11
+22,1161,ERCC8,"ERCC excision repair 8,CSA ubiquitin ligase complex subunit",Chromosome 5,5q12.1,13
+23,10060,ABCC9,ATP binding cassette subfamily C member 9,Chromosome 12,12p12.1,42
+24,25886,POC1A,POC1 centriolar protein A,Chromosome 3,3p21.2,13
+25,55690,PACS1,phosphofurin acidic cluster sorting protein 1,Chromosome 11,11q13.1-q13.2,26
+26,,,,Chromosome 10,q26.2,
+27,8573,CASK,calcium/calmodulin dependent serine protein kinase,Chromosome X,Xp11.4,28
+28,4849,CNOT3,CCR4-NOT transcription complex subunit 3,Chromosome 19,19q13.42,21
+29,4763,NF1,neurofibromin 1,Chromosome 17,17q11.2,58
+30,11338,U2AF2,U2 small nuclear RNA auxiliary factor 2,Chromosome 19,19q13.42,14
+31,8092,ALX1,ALX homeobox 1,Chromosome 12,12q21.31,4
+32,60529,ALX4,ALX homeobox 4,Chromosome 11,11p11.2,4
+33,257,ALX3,ALX homeobox 3,Chromosome 1,1p13.3,4
+34,51604,PIGT,phosphatidylinositol glycan anchor biosynthesis class T,Chromosome 20,20q13.12,12
+35,773,CACNA1A,calcium voltage-gated channel subunit alpha1 A,Chromosome 19,19p13.13,49
+36,6949,TCOF1,treacle ribosome biogenesis factor 1,Chromosome 5,5q32-q33.1,29
+37,1457,CSNK2A1,casein kinase 2 alpha 1,Chromosome 20,20p13,14
+38,29920,PYCR2,pyrroline-5-carboxylate reductase 2,Chromosome 1,1q42.12,7
+39,7204,TRIO,trio Rho guanine nucleotide exchange factor,Chromosome 5,5p15.2,61
+40,29123,ANKRD11,ankyrin repeat domain containing 11,Chromosome 16,16q24.3,17
+41,84172,POLR1B,RNA polymerase I subunit B,Chromosome 2,2q14.1,18
+42,7403,KDM6A,lysine demethylase 6A,Chromosome X,Xp11.3,33
+43,860,RUNX2,RUNX family transcription factor 2,Chromosome 6,6p21.1,10
+44,,,,Chromosome 3,q29,
+45,23389,MED13L,mediator complex subunit 13L,Chromosome 12,12q24.21,35
+46,10847,SRCAP,Snf2 related CREBBP activator protein,Chromosome 16,16p11.2,34
+47,63035,BCORL1,BCL6 corepressor like 1,Chromosome X,Xq26.1,21
+48,5648,MASP1,MBL associated serine protease 1,Chromosome 3,3q27.3,18
+49,57492,ARID1B,AT-rich interaction domain 1B,Chromosome 6,6q25.3,26
+50,6598,SMARCB1,"SWI/SNF related,matrix associated,actin dependent regulator of chromatin,subfamily b,member 1",Chromosome 22,22q11,9
+51,5077,PAX3,paired box 3,Chromosome 2,2q36.1,10
+52,1642,DDB1,damage specific DNA binding protein 1,Chromosome 11,11q12.2,27
+53,2778,GNAS,GNAS complex locus,Chromosome 20,20q13.32,22
+54,2263,FGFR2,fibroblast growth factor receptor 2,Chromosome 10,10q26.13,26
+55,55764,IFT122,intraflagellar transport 122,Chromosome 3,3q21.3-q22.1,34
+56,4091,SMAD6,SMAD family member 6,Chromosome 15,15q22.31,7
+57,10982,MAPRE2,microtubule associated protein RP/EB family member 2,Chromosome 18,18q12.1-q12.2,10
+58,6785,ELOVL4,ELOVL fatty acid elongase 4,Chromosome 6,6q14.1,6
+59,6497,SKI,SKI proto-oncogene,Chromosome 1,1p36.33-p36.32,9
+60,1107,CHD3,chromodomain helicase DNA binding protein 3,Chromosome 17,17p13.1,45
+61,2186,BPTF,bromodomain PHD finger transcription factor,Chromosome 17,17q24.2,34
+62,,,,Chromosome 1,p36,
+63,,,,Chromosome 11,q13.4-q14.3,
+64,5784,PTPN14,protein tyrosine phosphatase non-receptor type 14,Chromosome 1,1q32.3-q41,22
+65,22930,RAB3GAP1,RAB3 GTPase activating protein catalytic subunit 1,Chromosome 2,2q21.3,29
+66,8550,MAPKAPK5,MAPK activated protein kinase 5,Chromosome 12,12q24.12-q24.13,16
+67,4000,LMNA,lamin A/C,Chromosome 1,1q22,20
+68,80816,ASXL3,ASXL transcriptional regulator 3,Chromosome 18,18q12.1,18
+69,7528,YY1,YY1 transcription factor,Chromosome 14,14q32.2,5
+70,51574,LARP7,"La ribonucleoprotein 7,transcriptional regulator",Chromosome 4,4q25,17
+71,8241,RBM10,RNA binding motif protein 10,Chromosome X,Xp11.3,25
+72,60,ACTB,actin beta,Chromosome 7,7p22.1,6
+73,1855,DVL1,dishevelled segment polarity protein 1,Chromosome 1,1p36.33,16
+74,64359,NXN,nucleoredoxin,Chromosome 17,17p13.3,11
+75,7474,WNT5A,Wnt family member 5A,Chromosome 3,3p14.3,17
+76,4920,ROR2,receptor tyrosine kinase like orphan receptor 2,Chromosome 9,9q22.31,15
+77,2296,FOXC1,forkhead box C1,Chromosome 6,6p25.3,1
+78,5308,PITX2,paired like homeodomain 2,Chromosome 4,4q25,9
+79,,,,Chromosome 7,q11.23,
+80,,,,Chromosome 15,q24.1q24.3,
+81,7227,TRPS1,transcriptional repressor GATA binding 1,Chromosome 8,8q23.3,8
+82,,,,Chromosome 8,q24.11-q24.13,
+83,25992,Sned1,"sushi,nidogen and EGF like domains 1",Chromosome 2,2q37.3,36
+84,54888,NSUN2,NOP2/Sun RNA methyltransferase 2,Chromosome 5,5p15.31,19
+85,23384,SPECC1L,sperm antigen with calponin homology and coiled-coil domains 1 like,Chromosome 22,22q11.23,19
+86,9343,EFTUD2,elongation factor Tu GTP binding domain containing 2,Chromosome 17,17q21.31,29
+87,4088,SMAD3,SMAD family member 3,Chromosome 15,15q22.33,15
+88,4774,NFIA,nuclear factor I A,Chromosome 1,1p31.3,13
+89,10084,PQBP1,polyglutamine binding protein 1,Chromosome X,Xp11.23,8
+90,80204,FBXO11,F-box protein 11,Chromosome 2,2p16.3,26
+91,4983,OPHN1,oligophrenin 1,Chromosome X,Xq12,28
+92,1387,CREBBP,CREB binding protein,Chromosome 16,16p13.3,33
+93,5832,ALDH18A1,aldehyde dehydrogenase 18 family member A1,Chromosome 10,10q24.1,18
+94,,,,Chromosome 3,p13-p14.1,
+95,4286,MITF,melanocyte inducing transcription factor,Chromosome 3,3p13,17
+96,55628,ZNF407,zinc finger protein 407,Chromosome 18,18q22.3,13
+97,,,,Chromosome 20,p12.2,
+98,5279,PIGC,phosphatidylinositol glycan anchor biosynthesis class C,Chromosome 1,1q24.3,2
+99,57459,GATAD2B,GATA zinc finger domain containing 2B,Chromosome 1,1q21.3,13
+100,64919,BCL11B,BCL11 transcription factor B,Chromosome 14,14q32.2,5
+101,2733,GLE1,GLE1 RNA export mediator,Chromosome 9,9q34.11,19
+102,9320,TRIP12,thyroid hormone receptor interactor 12,Chromosome 2,2q36.3,45
+103,7862,BRPF1,bromodomain and PHD finger containing 1,Chromosome 3,3p25.3,17
+104,,,,Chromosome 6,q25.1-q25.3,
+105,55315,SLC29A3,solute carrier family 29 member 3,Chromosome 10,10q22.1,9
+106,6651,SON,SON DNA and RNA binding protein,Chromosome 21,21q22.11,15
+107,7319,UBE2A,ubiquitin conjugating enzyme E2 A,Chromosome X,Xq24,6
+108,9820,CUL7,cullin 7,Chromosome 6,6p21.1,27
+109,10771,ZMYND11,zinc finger MYND-type containing 11,Chromosome 10,10p15.3,23
+110,5063,PAK3,p21 (RAC1) activated kinase 3,Chromosome X,Xq23,29
+111,7994,KAT6A,lysine acetyltransferase 6A,Chromosome 8,8p11.21,17
+112,3845,KRAS,"KRAS proto-oncogene,GTPase",Chromosome 12,12p12.1,7
+113,5604,MAP2K1,mitogen-activated protein kinase kinase 1,Chromosome 15,15q22.31,12
+114,7841,MOGS,mannosyl-oligosaccharide glucosidase,Chromosome 2,2p13.1,5
+115,8493,PPM1D,"protein phosphatase,Mg2+/Mn2+ dependent 1D",Chromosome 17,17q23.2,8
+116,182,JAG1,jagged canonical Notch ligand 1,Chromosome 20,20p12.2,26
+117,4330,MN1,"MN1 proto-oncogene,transcriptional regulator",Chromosome 22,22q12.1,2
+118,7030,TFE3,transcription factor binding to IGHM enhancer 3,Chromosome X,Xp11.23,12
+119,1859,DYRK1A,dual specificity tyrosine phosphorylation regulated kinase 1A,Chromosome 21,21q22.13,15
+120,3481,IGF2,insulin like growth factor 2,Chromosome 11,11p15.5,9
+121,29957,SLC25A24,solute carrier family 25 member 24,Chromosome 1,1p13.3,11
+122,23194,FBXL7,F-box and leucine rich repeat protein 7,Chromosome 5,5p15.1,9
+123,,,,Chromosome 12,p13.31-p11.1,
+124,7468,NSD2,nuclear receptor binding SET domain protein 2,Chromosome 4,4p16.3,28
+125,157570,ESCO2,establishment of sister chromatid cohesion N-acetyltransferase 2,Chromosome 8,8p21.1,14
+126,27245,AHDC1,AT-hook DNA binding motif containing 1,Chromosome 1,1p36.11-p35.3,15
+127,22808,MRAS,muscle RAS oncogene homolog,Chromosome 3,3q22.3,10
+128,2113,ETS1,"ETS proto-oncogene 1,transcription factor",Chromosome 11,11q24.3,13
+129,5894,RAF1,"Raf-1 proto-oncogene,serine/threonine kinase",Chromosome 3,3p25.2,23
+130,51082,POLR1D,RNA polymerase I and III subunit D,Chromosome 13,13q12.2,6
+131,54499,TMCO1,transmembrane and coiled-coil domains 1,Chromosome 1,1q24.1,7
+132,2475,MTOR,mechanistic target of rapamycin kinase,Chromosome 1,1p36.22,60
+133,2132,EXT2,exostosin glycosyltransferase 2,Chromosome 11,11p11.2,19
+134,2239,GPC4,glypican 4,Chromosome X,Xq26.2,9
+135,6597,SMARCA4,"SWI/SNF related,matrix associated,actin dependent regulator of chromatin,subfamily a,member 4",Chromosome 19,19p13.2,40
+136,51780,KDM3B,lysine demethylase 3B,Chromosome 5,5q31.2,27
+137,144453,BEST3,bestrophin 3,Chromosome 12,12q15,15
+138,,,,Chromosome 22,q11.2,
+139,3832,KIF11,kinesin family member 11,Chromosome 10,10q23.33,22
+140,57680,CHD8,chromodomain helicase DNA binding protein 8,Chromosome 14,14q11.2,39
+141,,,,Chromosome 1,p36.11 p35.3,
+143,26224,FBXL3,F-box and leucine rich repeat protein 3,Chromosome 13,13q22.3,5
+144,22827,PUF60,poly(U) binding splicing factor 60,Chromosome 8,8q24.3,14
+145,26523,AGO1,argonaute RISC component 1,Chromosome 1,1p34.3,20
+146,79158,GNPTAB,N-acetylglucosamine-1-phosphate transferase subunits alpha and beta,Chromosome 12,12q23.2,23
+147,27086,FOXP1,forkhead box P1,Chromosome 3,3p13,30
+148,5727,PTCH1,patched 1,Chromosome 9,9q22.32,28
+149,8812,CCNK,cyclin K,Chromosome 14,14q32.2,12
+150,2316,FLNA,filamin A,Chromosome X,Xq28,48
+151,129285,PPP1R21,protein phosphatase 1 regulatory subunit 21,Chromosome 2,2p16.3,24
+152,5728,PTEN,phosphatase and tensin homolog,Chromosome 10,10q23.31,10
+153,7021,TFAP2B,transcription factor AP-2 beta,Chromosome 6,6p12.3,12
+154,285175,UNC80,"unc-80 homolog,NALCN channel complex subunit",Chromosome 2,2q34,65
+155,55869,HDAC8,histone deacetylase 8,Chromosome X,Xq13.1,16
+156,9401,RECQL4,RecQ like helicase 4,Chromosome 8,8q24.3,20
+157,1801,DPH1,diphthamide biosynthesis 1,Chromosome 17,17p13.3,13
+158,5034,P4HB,prolyl 4-hydroxylase subunit beta,Chromosome 17,17q25.3,11
+159,2535,FZD2,frizzled class receptor 2,Chromosome 17,17q21.31,1
+161,9179,AP4M1,adaptor related protein complex 4 subunit mu 1,Chromosome 7,7q22.1,16
+162,,,,Chromosome 15,q26.3,
+163,,,,Chromosome 10,p26.3,
+164,6595,SMARCA2,"SWI/SNF related,matrix associated,actin dependent regulator of chromatin,subfamily a,member 2",Chromosome 9,9p24.3,38
+165,9719,ADAMTSL2,ADAMTS like 2,Chromosome 9,9q34.2,20
+166,55209,SETD5,SET domain containing 5,Chromosome 3,3p25.3,31
+167,84720,PIGO,phosphatidylinositol glycan anchor biosynthesis class O,Chromosome 9,9p13.3,13
+168,93210,PGAP3,post-GPI attachment to proteins phospholipase 3,Chromosome 17,17q12,9
+169,,,,Chromosome 2,q37.1 q37.3,
+170,79718,TBL1XR1,TBL1X/Y related 1,Chromosome 3,3q26.32,24
+171,9968,MED12,mediator complex subunit 12,Chromosome X,Xq13.1,44
+172,5424,POLD1,"DNA polymerase delta 1,catalytic subunit",Chromosome 19,19q13.33,31
+173,23126,POGZ,pogo transposable element derived with ZNF domain,Chromosome 1,1q21.3,21
+174,,,,Chromosome 19,q13.32,
+175,85301,COL27A1,collagen type XXVII alpha 1 chain,Chromosome 9,9q32,66
+176,23314,SATB2,SATB homeobox 2,Chromosome 2,2q33.1,16
+177,253738,EBF3,EBF transcription factor 3,Chromosome 10,10q26.3,19
+178,2033,EP300,E1A binding protein p300,Chromosome 22,22q13.2,31
+179,9871,SEC24D,"SEC24 homolog D,COPII coat complex component",Chromosome 4,4q26,23
+180,5189,PEX1,peroxisomal biogenesis factor 1,Chromosome 7,7q21.2,24
+181,,,,Chromosome 22,q11.22,
+182,23363,OBSL1,obscurin like cytoskeletal adaptor 1,Chromosome 2,2q35,23
+183,,,,Chromosome 16,p13.11,
+184,,,,Chromosome 19,p13.3,
+185,,,,Chromosome 1,q42-q44,
+186,,,,Chromosome 9,q21.12-q21.33,
+187,,,,Chromosome 1,q23.3-q25.1,
+188,,,,Chromosome 3,p21.31,
+189,,,,Chromosome 5,q11.2,
+190,,,,Chromosome 17,q11.2,
+191,,,,Chromosome 17,p13.3,
+192,,,,Chromosome 14,q32.32-q32.33,
+193,169792,GLIS3,GLIS family zinc finger 3,Chromosome 9,9p24.2,20
+194,283489,CHAMP1,chromosome alignment maintaining phosphoprotein 1,Chromosome 13,13q34,3
+195,8925,HERC1,HECT and RLD domain containing E3 ubiquitin protein ligase family member 1,Chromosome 15,15q22.31,81
+196,4709,NDUFB3,NADH:ubiquinone oxidoreductase subunit B3,Chromosome 2,2q33.1,4
+198,113179,ADAT3,adenosine deaminase tRNA specific 3,Chromosome 19,19p13.3,2
+199,,,,Chromosome 14,q11.2,
+200,,,,Chromosome 15,q15.3-q21.2,
+201,,,,Chromosome 16,p12.1 p12.3,
+202,55636,CHD7,chromodomain helicase DNA binding protein 7,Chromosome 8,8q12.2,42
+203,,,,Chromosome 8,q23.1-q24.12,
+204,51322,WAC,WW domain containing adaptor with coiled-coil,Chromosome 10,10p12.1-p11.2,17
+205,,,,Chromosome 2,q13,
+206,1947,EFNB1,ephrin B1,Chromosome X,Xq13.1,5
+207,26229,B3GAT3,"beta-1,3-glucuronyltransferase 3",Chromosome 11,11q12.3,6
+208,5789,PTPRD,protein tyrosine phosphatase receptor type D,Chromosome 9,9p24.1-p23,51
+209,8074,FGF23,fibroblast growth factor 23,Chromosome 12,12p13.32,3
+210,,,,Chromosome 17,q24.2-q24.3,
+211,,,,Chromosome 2,p16.1,
+212,,,,Chromosome 1,p35.2,
+213,340533,NEXMIF,neurite extension and migration factor,Chromosome X,Xq13.3,4
+214,,,,Chromosome 8,q21.11-q21.13,
+215,,,,Chromosome 12,q21.2q22,
+216,7518,XRCC4,X-ray repair cross complementing 4,Chromosome 5,5q14.2,14
+217,,,,Chromosome 4,p16.3,
+218,1909,EDNRA,endothelin receptor type A,Chromosome 4,4q31.22-q31.23,9
+219,,,,Chromosome 14,q24.3-q31.3,
+220,55691,FRMD4A,FERM domain containing 4A,Chromosome 10,10p13,30
+221,,,,Chromosome 13,q31.3-q32.3,
+222,,,,Chromosome 16,q24.3,
+223,84168,ANTXR1,ANTXR cell adhesion molecule 1,Chromosome 2,2p13.3,22
+224,,,,Chromosome 2,p15,
+225,7514,XPO1,exportin 1,Chromosome 2,2p15,31
+226,9736,USP34,ubiquitin specific peptidase 34,Chromosome 2,2p15,80
+227,,,,Chromosome 17,p13.3,
+228,444,ASPH,aspartate beta-hydroxylase,Chromosome 8,8q12.3,33
+229,10913,EDAR,ectodysplasin A receptor,Chromosome 2,2q13,12
+230,10717,AP4B1,adaptor related protein complex 4 subunit beta 1,Chromosome 1,1p13.2,12
+231,1917,EEF1A2,eukaryotic translation elongation factor 1 alpha 2,Chromosome 20,20q13.33,8
+232,,,,Chromosome 13,q12.3,
+234,84056,KATNAL1,katanin catalytic subunit A1 like 1,Chromosome 13,13q12.3,16
+235,3146,HMGB1,high mobility group box 1,Chromosome 13,13q12.3,9
+236,100188949,LINC00426,long intergenic non-protein coding RNA 426,Chromosome 13,13q12.3,5
+237,,,,Chromosome 4,p16,
+238,89910,UBE3B,ubiquitin protein ligase E3B,Chromosome 12,12q24.11,32
+239,2697,GJA1,gap junction protein alpha 1,Chromosome 6,6q22.31,2
+240,,,,Chromosome X,q21.1,
+241,254065,BRWD3,bromodomain and WD repeat domain containing 3,Chromosome X,Xq21.1,42
+242,5932,RBBP8,"RB binding protein 8,endonuclease",Chromosome 18,18q11.2,25
+243,9378,NRXN1,neurexin 1,Chromosome 2,2p16.3,27
+244,,,,Chromosome X,q26.2-q26.3,
+245,84295,PHF6,PHD finger protein 6,Chromosome X,Xq26.2,10
+246,,,,Chromosome 14,q22.3-q23.2,
+247,6495,SIX1,SIX homeobox 1,Chromosome 14,14q23.1,2
+248,4990,SIX6,SIX homeobox 6,Chromosome 14,14q23.1,2
+249,5684,PSMA3,proteasome 20S subunit alpha 3,Chromosome 14,14q23.1,11
+250,,,,Chromosome 1,q43-q44,
+251,10000,AKT3,AKT serine/threonine kinase 3,Chromosome 1,1q43-q44,25
+252,7169,TPM2,tropomyosin 2,Chromosome 9,9p13.3,11
+253,,,,Chromosome 3,p25.3,
+254,25917,THUMPD3,THUMP domain containing 3,Chromosome 3,3p25.3,10
+255,440944,THUMPD3-AS1,THUMPD3 antisense RNA 1,Chromosome 3,3p25.3,7
+256,387733,IFITM5,interferon induced transmembrane protein 5,Chromosome 11,11p15.5,2
+257,5605,MAP2K2,mitogen-activated protein kinase kinase 2,Chromosome 19,19p13.3,12
+258,64324,NSD1,nuclear receptor binding SET domain protein 1,Chromosome 5,5q35.3,29
+259,,,,Chromosome 6,p22.3-p24.1,
+260,3720,JARID2,jumonji and AT-rich interaction domain containing 2,Chromosome 6,6p22.3,23
+261,,,,Chromosome 16,p13.3,
+262,,,,Chromosome 8,q12,
+263,6834,SURF1,SURF1 cytochrome c oxidase assembly factor,Chromosome 9,9q34.2,9
+264,,,,Chromosome 8,q21.11,
+265,,,,Chromosome 13,q14.2-q21.2,
+266,,,,Chromosome 16,q12-q21,
+267,,,,Chromosome 5,q31.3,
+268,,,,Chromosome 3,q25.1-q25.32,
+269,,,,Chromosome 6,q14.1-q15,
+270,,,,Chromosome 18,q21.31,
+271,9352,TXNL1,thioredoxin like 1,Chromosome 18,18q21.31,11
+272,23335,WDR7,WD repeat domain 7,Chromosome 18,18q21.31,36
+273,1545,CYP1B1,cytochrome P450 family 1 subfamily B member 1,Chromosome 2,2p22.2,3
+274,10269,ZMPSTE24,zinc metallopeptidase STE24,Chromosome 1,1p34.2,12
+275,,,,Chromosome 16,q11.2-q13,
+276,,,,Chromosome 11,q13.5-q14.2,
+277,,,,Chromosome X,p11.23-p11.3,
+278,6853,SYN1,synapsin I,Chromosome X,Xp11.3-p11.23,13
+279,347344,ZNF81,zinc finger protein 81,Chromosome X,Xp11.23,7
+280,24140,FTSJ1,FtsJ RNA 2'-O-methyltransferase 1,Chromosome X,Xp11.23,15
+281,10682,EBP,EBP cholestenol delta-isomerase,Chromosome X,Xp11.23,5
+282,64743,WDR13,WD repeat domain 13,Chromosome X,Xp11.23,9
+283,,,,Chromosome 8,q24.3,
+284,83696,TRAPPC9,trafficking protein particle complex subunit 9,Chromosome 8,8q24.3,32
+285,,,,Chromosome 2,q33.1,
+286,4952,OCRL,OCRL inositol polyphosphate-5-phosphatase,Chromosome X,Xq26.1,24
+287,145173,B3GLCT,beta 3-glucosyltransferase,Chromosome 13,13q12.3,19
+288,,,,Chromosome 14,q12,
+289,2290,FOXG1,forkhead box G1,Chromosome 14,14q12,1
+290,5587,PRKD1,protein kinase D1,Chromosome 14,14q12,24
+291,,,,Chromosome 22,q13.1-q13.2,
+292,6657,SOX2,SRY-box transcription factor 2,Chromosome 3,3q26.33,1
+293,,,,Chromosome 15,q14,
+294,2074,ERCC6,"ERCC excision repair 6,chromatin remodeling factor",Chromosome 10,10q11.23,23
+295,4626,MYH8,myosin heavy chain 8,Chromosome 17,17p13.1,40
+296,,,,Chromosome 4,q33,
+297,,,,Chromosome X,p22.3,
+298,,,,Chromosome 6,q24.3-25.1,
+299,,,,Chromosome 22,q11.21,
+300,,,,Chromosome 18,p11.1,
+301,,,,Chromosome 18,p11.2,
+302,,,,Chromosome 21,q22.2-q22.3,
+303,203068,TUBB,tubulin beta class I,Chromosome 6,6p21.33,6
+304,478,ATP1A3,ATPase Na+/K+ transporting subunit alpha 3,Chromosome 19,19q13.2,25
+305,8643,PTCH2,patched 2,Chromosome 1,1p34.1,23
+306,23135,KDM6B,lysine demethylase 6B,Chromosome 17,17p13.1,24
+307,4212,MEIS2,Meis homeobox 2,Chromosome 15,15q14,15
+308,92949,ADAMTSL1,ADAMTS like 1,Chromosome 9,9p22.2-p22.1,39
+309,9772,TMEM94,transmembrane protein 94,Chromosome 17,17q25.1,34
+310,8313,AXIN2,axin 2,Chromosome 17,17q24.1,14
+311,84314,TMEM107,transmembrane protein 107,Chromosome 17,17p13.1,5
+312,4256,MGP,matrix Gla protein,Chromosome 12,12p12.3,5
+313,254956,MORN5,MORN repeat containing 5,Chromosome 9,9q33.2,5
+314,,,,Chromosome 3,3q26.31,
+315,57584,ARHGAP21,Rho GTPase activating protein 21,Chromosome 10,10p12.1; 10p12.3,33
+316,90416,CCDC32,coiled-coil domain containing 32,Chromosome 15,15q15.1,8
+317,546,ATRX,ATRX chromatin remodeler,Chromosome X,Xq21.1,37
+318,83959,SLC4A11,solute carrier family 4 member 11,Chromosome 20,20p13,24
+319,9702,CEP57,centrosomal protein 57,Chromosome 11,11q21,14
+320,51099,ABHD5,"abhydrolase domain containing 5,lysophosphatidic acid acyltransferase",Chromosome 3,3p21.33,10
+321,23554,TSPAN12,tetraspanin 12,Chromosome 7,7q31.31,10
+322,55714,TENM3,teneurin transmembrane protein 3,Chromosome 4,4q34.3-q35.1,40
+323,4089,SMAD4,SMAD family member 4,Chromosome 18,18q21.2,14
+324,4882,NPR2,natriuretic peptide receptor 2,Chromosome 9,9p13.3,22
+325,5500,PPP1CB,protein phosphatase 1 catalytic subunit beta,Chromosome 2,2p23.2,9
+326,9241,NOG,noggin,Chromosome 17,17q22,1
+327,56006,SMG9,SMG9 nonsense mediated mRNA decay factor,Chromosome 19,19q13.31,15
+328,9924,PAN2,poly(A) specific ribonuclease subunit PAN2,Chromosome 12,12q13.3,27
+329,29980,?DONSON,DNA replication fork stabilization factor DONSON,Chromosome 21,21q22.11,10
+330,1499,CTNNB1,catenin beta 1,Chromosome 3,3p22.1,21
+331,80209,PROSER1,proline and serine rich 1,Chromosome 13,q13.3,13
+332,91179,SCARF2,scavenger receptor class F member 2,Chromosome 22,q11.21,11
+333,1421,CRYGD,crystallin gamma D,Chromosome 2,q33.3,3
+334,285590,SH3PXD2B,SH3 and PX domains 2B,Chromosome 5,q35.1,15
+336,6925,TCF4,transcription factor 4,Chromosome 18,q21.2,32
+337,6493,SIM2,SIM bHLH transcription factor 2,Chromosome 21,q22.13,12
+338,55252,ASXL2,ASXL transcriptional regulator 2,Chromosome 2,p23.3,16
+339,3759,KCNJ2,potassium inwardly rectifying channel subfamily J member 2,Chromosome 17,q24.3,2
+340,3008,H1-4,"H1.4 linker histone,cluster member",Chromosome 6,p22.2,1
+341,26504,CNNM4,cyclin and CBS domain divalent metal cation transport mediator 4,Chromosome 2,q11.2,12
+342,57551,TAOK1,TAO kinase 1,Chromosome 17,q11.2,20
+343,79228,THOC6,THO complex subunit 6,Chromosome 16,p13.3,13
+344,50628,GEMIN4,gem nuclear organelle associated protein 4,Chromosome 17,p13.3,7
+345,54507,ADAMTSL4,ADAMTS like 4,Chromosome 1,q21.2,20
+346,5295,PIK3R1,phosphoinositide-3-kinase regulatory subunit 1,Chromosome 5,q13.1,23
+347,5080,PAX6,paired box 6,Chromosome 11,p13,25
+348,8621,CDK13,cyclin dependent kinase 13,Chromosome 7,p14.1,16
+349,51109,RDH11,retinol dehydrogenase 11,Chromosome 14,q24.1,7
+350,3693,ITGB5,integrin subunit beta 5,Chromosome 3,q21.2,19
+351,64132,XYLT2,xylosyltransferase 2,Chromosome 17,q21.33,13
+352,8692,HYAL2,hyaluronidase 2,Chromosome 3,p21.31,6
+353,23241,PACS2,phosphofurin acidic cluster sorting protein 2,Chromosome 14,q32.33,26
+354,8242,KDM5C,lysine demethylase 5C,Chromosome X,p11.22,29
+355,5159,PDGFRB,platelet derived growth factor receptor beta,Chromosome 5,5q32,24
+356,5087,PBX1,PBX homeobox 1,Chromosome 1,1q23.3,12
+357,7703,PCGF2,polycomb group ring finger 2,Chromosome 17,q12,13
+358,10907,TXNL4A,thioredoxin like 4A,Chromosome 18,18q23,7
+359,27152,INTU,inturned planar cell polarity protein,Chromosome 4,4q28.1,16
+360,10484,SEC23A,"SEC23 homolog A,COPII coat complex component",Chromosome 14,14q21.1,22
+361,1411,CRYBA1,crystallin beta A1,Chromosome 17,17q11.2,6
+362,93650,ACP4,acid phosphatase 4,Chromosome 19,19q13.33,11
+363,256764,WDR72,WD repeat domain 72,Chromosome 15,15q21.3,25
+364,1747,DLX3,distal-less homeobox 3,Chromosome 17,17q21.33,3
+365,999,CDH1,cadherin 1,Chromosome 16,16q22.1,16
+366,5352,PLOD2,"procollagen-lysine,2-oxoglutarate 5-dioxygenase 2",Chromosome 3,3q24,23
+367,60681,FKBP10,FKBP prolyl isomerase 10,Chromosome 17,17q21.2,11
+368,6833,ABCC8,ATP binding cassette subfamily C member 8,Chromosome 11,11p15.1,38
+369,8869,ST3GAL5,"ST3 beta-galactoside alpha-2,3-sialyltransferase 5",Chromosome 2,2p11.2,17
+370,8481,OFD1,OFD1 centriole and centriolar satellite protein [ Homo sapiens (human) ],Chromosome X,Xp22.2,27
+371,55023,PHIP,pleckstrin homology domain interacting protein,Chromosome 6,6q14.1,41
+372,221927,BRAT1,BRCA1 associated ATM activator 1 [ Homo sapiens (human) ],Chromosome 7,7p22.3,16
+373,1861,TOR1A,torsin family 1 member A [ Homo sapiens (human) ],Chromosome 9,9q34.11,5
+374,83987,CCDC8,coiled-coil domain containing 8 [ Homo sapiens (human) ],Chromosome 19,19q13.32,1
+375,1759,DNM1,dynamin 1 [ Homo sapiens (human) ],Chromosome 9,9q34.11,24
+376,5515,PPP2CA,protein phosphatase 2 catalytic subunit alpha [ Homo sapiens (human) ],Chromosome 5,5q31.1,8
+377,8720,MBTPS1,"membrane bound transcription factor peptidase,site 1 [ Homo sapiens (human) ]",Chromosome 16,16q23.3-q24.1,24
+379,26040,SETBP1,SET binding protein 1 [ Homo sapiens (human) ],Chromosome 18,18q12.3,15
+380,5426,POLE,"DNA polymerase epsilon,catalytic subunit [ Homo sapiens (human) ]",Chromosome 12,12q24.33,52
+381,6197,RPS6KA3,ribosomal protein S6 kinase A3 [ Homo sapiens (human) ],Chromosome X,Xp22.12,26
+382,10617,STAMBP,STAM binding protein [ Homo sapiens (human) ],Chromosome 2,2p13.1,16
+383,23522,KAT6B,lysine acetyltransferase 6B [ Homo sapiens (human) ],Chromosome 10,10q22.2,20
+384,2615,LRRC32,leucine rich repeat containing 32 [ Homo sapiens (human) ],Chromosome 11,11q13.5,4
+385,5075,PAX1,paired box 1 [ Homo sapiens (human) ],Chromosome 20,20p11.22,5
+386,1736,DKC1,dyskerin pseudouridine synthase 1,Chromosome X,Xq28,14
+387,80781,COL18A1,collagen type XVIII alpha 1 chain,Chromosome 21,21q22.3,43
+388,79971,WLS,Wnt ligand secretion mediator,Chromosome 1,1p31.3,13
+389,93627,TBCK,TBC1 domain containing kinase,Chromosome 4,4q24,34
+390,6664,SOX11,SRY-box transcription factor 11,Chromosome 2,2p25.2,1
+391,196528,ARID2,AT-rich interaction domain 2,Chromosome 12,12q12,22
+392,6601,SMARCC2,"SWI/SNF related,matrix associated,actin dependent regulator of chromatin subfamily c member 2",Chromosome 12,12q13.2,30
+393,25942,SIN3A,SIN3 transcription regulator family member A,Chromosome 15,15q24.2,30
+394,4921,DDR2,discoidin domain receptor tyrosine kinase 2,Chromosome 1,1q23.3,22
+395,10516,FBLN5,fibulin 5,Chromosome 14,14q32.12,15
+396,80232,WDR26,WD repeat domain 26,Chromosome 1,1q42.11-q42.12,14
+397,5885,RAD21,RAD21 cohesin complex component,Chromosome 8,8q24.11,14
+398,208,AKT2,AKT serine/threonine kinase 2,Chromosome 19,19q13.2,14
+399,8405,SPOP,speckle type BTB/POZ protein,Chromosome 17,17q21.33,16
+400,4487,MSX1,msh homeobox 1,Chromosome 4,4p16.2,2
+401,23511,NUP188,nucleoporin 188,Chromosome 9,9q34.11,44
+402,7837,PXDN,peroxidasin,Chromosome 2,2p25.3,25
+403,1415,CRYBB2,crystallin beta B2,Chromosome 22,22q11.23,7
+404,9487,PIGL,phosphatidylinositol glycan anchor biosynthesis class L,Chromosome 17,17p11.2,10
+405,79443,FYCO1,FYVE and coiled-coil domain autophagy adaptor 1,Chromosome 3,3p21.31,23
