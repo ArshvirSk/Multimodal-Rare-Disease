@@ -162,7 +162,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(
         description="Generate augmented images to increase dataset size")
     parser.add_argument(
-        "--source", default="data/images_organized", help="Source image directory")
+        "--source", default="data/images", help="Source image directory")
     parser.add_argument(
         "--output", default="data/images_augmented", help="Output directory")
     parser.add_argument("--num-aug", type=int, default=10,
