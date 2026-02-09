@@ -118,8 +118,9 @@ class SimpleImageDataset(Dataset):
     Simple and reliable image dataset for rare disease classification.
     """
 
-    # Folder name mapping
+    # Folder name mapping - supports multiple naming conventions
     FOLDER_TO_SYNDROME = {
+        # Long names (original format)
         "22q11.2_Deletion_Syndrome": "22q11.2 Deletion Syndrome",
         "Angelman_Syndrome": "Angelman Syndrome",
         "Cornelia_de_Lange_Syndrome": "Cornelia de Lange Syndrome",
@@ -130,6 +131,17 @@ class SimpleImageDataset(Dataset):
         "Rubinstein_Taybi_Syndrome": "Rubinstein-Taybi Syndrome",
         "Smith_Magenis_Syndrome": "Smith-Magenis Syndrome",
         "Williams_Beuren_Syndrome": "Williams-Beuren Syndrome",
+        # Short names (SYN_* format from augmentation)
+        "SYN_22Q": "22q11.2 Deletion Syndrome",
+        "SYN_AS": "Angelman Syndrome",
+        "SYN_CdLS": "Cornelia de Lange Syndrome",
+        "SYN_KBG": "KBG Syndrome",
+        "SYN_KS": "Kabuki Syndrome",
+        "SYN_NBS": "Nicolaides-Baraitser Syndrome",
+        "SYN_NS": "Noonan Syndrome",
+        "SYN_RSTS": "Rubinstein-Taybi Syndrome",
+        "SYN_SMS": "Smith-Magenis Syndrome",
+        "SYN_WBS": "Williams-Beuren Syndrome",
     }
 
     def __init__(
