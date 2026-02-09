@@ -99,15 +99,35 @@ def generate_augmented_dataset(
     output_dir = Path(output_dir)
 
     print(f"Source: {source_dir}")
+    print(f"Source exists: {source_dir.exists()}")
+    print(f"Source is absolute: {source_dir.is_absolute()}")
     print(f"Output: {output_dir}")
     print(f"Augmentations per image: {num_augmentations}")
+    print()
+    
+    # Check if source directory exists
+    if not source_dir.exists():
+        print(f"❌ ERROR: Source directory does not exist: {source_dir}")
+        print(f"   Absolute path: {source_dir.absolute()}")
+        print(f"   Current working directory: {Path.cwd()}")
+        print()
+        print("   Please ensure the data/images folder exists with images.")
+        return
+    
+    # List contents
+    contents = list(source_dir.iterdir())
+    print(f"Source directory contents ({len(contents)} items):")
+    for item in contents[:10]:
+        print(f"   {item.name}")
+    if len(contents) > 10:
+        print(f"   ... and {len(contents) - 10} more")
     print()
 
     total_original = 0
     total_generated = 0
 
     # Check if source has subfolders or flat files
-    has_subfolders = any(p.is_dir() for p in source_dir.iterdir())
+    has_subfolders = any(p.is_dir() for p in contents)
 
     if has_subfolders:
         # Process each syndrome folder
