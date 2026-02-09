@@ -36,8 +36,7 @@ env/
 # Jupyter Notebook
 .ipynb_checkpoints/
 
-# Data files (too large for git)
-data/images/
+# Data files (generated data - too large for git)
 data/images_augmented/
 data/images_organized/
 *.pt
