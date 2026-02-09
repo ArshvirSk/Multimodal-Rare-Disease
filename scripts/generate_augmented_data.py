@@ -85,7 +85,7 @@ def generate_augmented_dataset(
 ):
     """
     Generate augmented images from source directory.
-    
+
     Supports two formats:
     1. Flat structure: data/images/SYN_CODE_001.png (extracts syndrome from filename)
     2. Folder structure: data/images/SYN_CODE/001.png (uses folder name)
@@ -105,10 +105,10 @@ def generate_augmented_dataset(
 
     total_original = 0
     total_generated = 0
-    
+
     # Check if source has subfolders or flat files
     has_subfolders = any(p.is_dir() for p in source_dir.iterdir())
-    
+
     if has_subfolders:
         # Process each syndrome folder
         for syndrome_folder in source_dir.iterdir():
@@ -133,8 +133,9 @@ def generate_augmented_dataset(
                 total_generated += gen
     else:
         # Flat structure - extract syndrome from filename (e.g., SYN_CdLS_001.png)
-        images = list(source_dir.glob("*.png")) + list(source_dir.glob("*.jpg"))
-        
+        images = list(source_dir.glob("*.png")) + \
+            list(source_dir.glob("*.jpg"))
+
         # Group by syndrome code
         syndrome_images = {}
         for img_path in images:
@@ -144,20 +145,22 @@ def generate_augmented_dataset(
                 syndrome_code = f"{parts[0]}_{parts[1]}"  # e.g., "SYN_CdLS"
             else:
                 syndrome_code = "unknown"
-            
+
             if syndrome_code not in syndrome_images:
                 syndrome_images[syndrome_code] = []
             syndrome_images[syndrome_code].append(img_path)
-        
-        print(f"Found {len(images)} images across {len(syndrome_images)} syndromes")
+
+        print(
+            f"Found {len(images)} images across {len(syndrome_images)} syndromes")
         print()
-        
+
         for syndrome_code, img_list in syndrome_images.items():
             output_syndrome_dir = output_dir / syndrome_code
             output_syndrome_dir.mkdir(parents=True, exist_ok=True)
-            
-            print(f"Processing {syndrome_code}: {len(img_list)} original images")
-            
+
+            print(
+                f"Processing {syndrome_code}: {len(img_list)} original images")
+
             for img_path in tqdm(img_list, desc=f"  {syndrome_code}"):
                 orig, gen = process_single_image(
                     img_path, output_syndrome_dir, num_augmentations)
@@ -179,7 +182,7 @@ def process_single_image(img_path: Path, output_dir: Path, num_augmentations: in
     """Process a single image and generate augmentations."""
     total_original = 0
     total_generated = 0
-    
+
     try:
         # Load original image
         original = Image.open(img_path).convert('RGB')
@@ -204,7 +207,7 @@ def process_single_image(img_path: Path, output_dir: Path, num_augmentations: in
 
     except Exception as e:
         print(f"Error processing {img_path}: {e}")
-    
+
     return total_original, total_generated
 
 
