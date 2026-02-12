@@ -1,0 +1,52 @@
+{
+    "Cornelia de Lange Syndrome": {
+        "clinical_description": "Cornelia de Lange Syndrome is a rare genetic disorder characterized by distinctive facial features including synophrys (connected eyebrows), long eyelashes, low-set ears, small upturned nose, thin lips with downturned corners, and micrognathia. Patients typically present with pre- and postnatal growth retardation, limb abnormalities ranging from small hands to severe limb reduction defects, hirsutism, and developmental delay. Cardiac defects and gastrointestinal problems are common. The facial gestalt shows arched eyebrows, long philtrum, and anteverted nares.",
+        "hpo_terms": ["HP:0000664", "HP:0000561", "HP:0000369", "HP:0000463", "HP:0000233", "HP:0000347", "HP:0001511", "HP:0001249"],
+        "key_facial_features": ["synophrys", "long eyelashes", "thin upper lip", "downturned mouth corners", "small nose", "anteverted nares", "long philtrum", "arched eyebrows"]
+    },
+    "Williams-Beuren Syndrome": {
+        "clinical_description": "Williams-Beuren Syndrome is caused by a microdeletion on chromosome 7 and presents with a characteristic elfin-like facial appearance. Key features include a broad forehead, stellate iris pattern, periorbital fullness, wide mouth with full lips, and small chin. Patients exhibit a unique cognitive profile with hypersociability and strong verbal abilities but significant visuospatial deficits. Cardiovascular abnormalities especially supravalvular aortic stenosis are common. Hypercalcemia may occur in infancy.",
+        "hpo_terms": ["HP:0000574", "HP:0000154", "HP:0000322", "HP:0001249", "HP:0001627", "HP:0002901"],
+        "key_facial_features": ["broad forehead", "periorbital fullness", "stellate iris pattern", "wide mouth", "full lips", "short nose", "long philtrum", "small chin"]
+    },
+    "Noonan Syndrome": {
+        "clinical_description": "Noonan Syndrome is a relatively common genetic condition characterized by distinctive facial features that change with age. Typical features include hypertelorism, ptosis, down-slanting palpebral fissures, low-set posteriorly rotated ears, short webbed neck, and a characteristic triangular face shape. Other manifestations include short stature, congenital heart defects particularly pulmonary stenosis, cryptorchidism, and a broad or webbed neck. Pectus deformities and developmental delays may be present.",
+        "hpo_terms": ["HP:0000316", "HP:0000508", "HP:0000494", "HP:0000369", "HP:0000465", "HP:0004322", "HP:0001642"],
+        "key_facial_features": ["hypertelorism", "ptosis", "down-slanting eyes", "low-set ears", "webbed neck", "triangular face", "deep philtrum", "high nasal bridge"]
+    },
+    "Kabuki Syndrome": {
+        "clinical_description": "Kabuki Syndrome is named for its resemblance to kabuki theater makeup and features distinctive facial characteristics including arched eyebrows with lateral thinning or notching, long palpebral fissures with eversion of the lateral third of the lower eyelid, a depressed nasal tip, and prominent ears. Patients have postnatal growth deficiency, intellectual disability of variable degree, persistent fetal fingertip pads, and skeletal abnormalities. Blue sclerae and cardiac defects are also frequently observed.",
+        "hpo_terms": ["HP:0002553", "HP:0000637", "HP:0000431", "HP:0000400", "HP:0001249", "HP:0001252", "HP:0009623"],
+        "key_facial_features": ["arched eyebrows", "lateral eyebrow thinning", "long palpebral fissures", "eversion lower eyelids", "depressed nasal tip", "prominent ears", "cleft palate", "blue sclerae"]
+    },
+    "KBG Syndrome": {
+        "clinical_description": "KBG Syndrome is a rare genetic disorder characterized by macrodontia of the upper central incisors as a hallmark feature, along with distinctive facial features including a triangular face, brachycephaly, bushy eyebrows, wide-set eyes, a broad nasal tip, thin upper lip, and low-set ears. Short stature, developmental delay, and skeletal anomalies including costovertebral abnormalities are common. Hearing loss and seizures may also occur.",
+        "hpo_terms": ["HP:0000691", "HP:0000248", "HP:0000574", "HP:0000431", "HP:0000316", "HP:0001249", "HP:0004322"],
+        "key_facial_features": ["macrodontia", "triangular face", "bushy eyebrows", "wide nasal bridge", "anteverted nares", "thin upper lip", "brachycephaly", "low-set ears"]
+    },
+    "Angelman Syndrome": {
+        "clinical_description": "Angelman Syndrome is a neurogenetic disorder caused by loss of function of the maternal UBE3A gene. Characteristic features include severe intellectual disability, absent or minimal speech, ataxia, seizures, and a happy demeanor with frequent smiling and laughter. Facial features include a wide mouth with widely spaced teeth, prominent chin, flat occiput, and relative occipital groovedness. Hypopigmentation compared to family members is common. The distinctive behavioral phenotype includes hand-flapping and fascination with water.",
+        "hpo_terms": ["HP:0000750", "HP:0001249", "HP:0001250", "HP:0001251", "HP:0000752", "HP:0000248", "HP:0000303"],
+        "key_facial_features": ["wide mouth", "widely spaced teeth", "prominent chin", "flat occiput", "protruding tongue", "thin upper lip", "deep-set eyes", "hypopigmented skin"]
+    },
+    "Rubinstein-Taybi Syndrome": {
+        "clinical_description": "Rubinstein-Taybi Syndrome is characterized by broad thumbs and great toes, which are considered hallmark features. Facial features include downward-slanting palpebral fissures, heavy or arched eyebrows, long eyelashes, a convex or beaked nose with the columella extending below the nares, grimacing smile, and talon cusps on permanent teeth. Intellectual disability is typical, along with short stature and a tendency toward keloid formation. Cryptorchidism is common in males.",
+        "hpo_terms": ["HP:0001156", "HP:0001831", "HP:0000494", "HP:0000574", "HP:0000455", "HP:0001249", "HP:0004322"],
+        "key_facial_features": ["beaked nose", "downslanting palpebral fissures", "heavy eyebrows", "long eyelashes", "grimacing smile", "low columella", "microcephaly", "broad thumbs"]
+    },
+    "Smith-Magenis Syndrome": {
+        "clinical_description": "Smith-Magenis Syndrome is caused by a deletion in chromosome 17p11.2 and presents with distinctive facial features that become more apparent with age. Features include brachycephaly, midface hypoplasia, broad square face, tented upper lip, and prognathism developing in adolescence. Behavioral phenotype is notable including sleep disturbance with inverted circadian rhythm, self-hugging behavior, and insertion of objects into body orifices. Intellectual disability and speech delay are present.",
+        "hpo_terms": ["HP:0000248", "HP:0000272", "HP:0000319", "HP:0000233", "HP:0001249", "HP:0002360", "HP:0000729"],
+        "key_facial_features": ["brachycephaly", "midface hypoplasia", "broad square face", "tented upper lip", "upturned nose", "prognathism", "deep-set eyes", "synophrys"]
+    },
+    "Nicolaides-Baraitser Syndrome": {
+        "clinical_description": "Nicolaides-Baraitser Syndrome is a rare intellectual disability syndrome characterized by sparse scalp hair as a distinctive feature. Facial features include a triangular face, thick and sparse eyebrows and scalp hair, prominent lower lip, wide mouth, and pointed chin. Seizures are common. Interphalangeal joint prominence with shortened distal phalanges is characteristic. Patients have moderate to severe intellectual disability with severely impaired speech development.",
+        "hpo_terms": ["HP:0002209", "HP:0000248", "HP:0000574", "HP:0000158", "HP:0001249", "HP:0001250", "HP:0001773"],
+        "key_facial_features": ["sparse scalp hair", "triangular face", "thick eyebrows", "prominent lower lip", "wide mouth", "pointed chin", "thick hair", "prominent joints"]
+    },
+    "22q11.2 Deletion Syndrome": {
+        "clinical_description": "22q11.2 Deletion Syndrome, also known as DiGeorge syndrome or velocardiofacial syndrome, is caused by a microdeletion on chromosome 22. Characteristic features include congenital heart defects especially conotruncal malformations, palatal abnormalities including velopharyngeal insufficiency, immune deficiency due to thymic hypoplasia, and hypocalcemia. Facial features include hooded eyelids, bulbous nasal tip, hypoplastic alae nasi, small mouth and chin, and overfolded ear helices. Learning difficulties and psychiatric illness risk are increased.",
+        "hpo_terms": ["HP:0001627", "HP:0000175", "HP:0002721", "HP:0002901", "HP:0000193", "HP:0000431", "HP:0001249"],
+        "key_facial_features": ["hooded eyelids", "bulbous nasal tip", "hypoplastic alae nasi", "small mouth", "micrognathia", "overfolded ear helices", "long face", "malar flatness"]
+    }
+}

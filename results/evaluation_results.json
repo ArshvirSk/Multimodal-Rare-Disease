@@ -1,0 +1,69 @@
+{
+  "accuracy": 1.0,
+  "macro_precision": 1.0,
+  "macro_recall": 1.0,
+  "macro_f1": 1.0,
+  "total_samples": 550,
+  "per_class": {
+    "Cornelia de Lange Syndrome": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 55
+    },
+    "Williams-Beuren Syndrome": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 55
+    },
+    "Noonan Syndrome": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 55
+    },
+    "Kabuki Syndrome": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 55
+    },
+    "KBG Syndrome": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 55
+    },
+    "Angelman Syndrome": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 55
+    },
+    "Rubinstein-Taybi Syndrome": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 55
+    },
+    "Smith-Magenis Syndrome": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 55
+    },
+    "Nicolaides-Baraitser Syndrome": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 55
+    },
+    "22q11.2 Deletion Syndrome": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 55
+    }
+  }
+}
